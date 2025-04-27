@@ -80,6 +80,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-04-27 19:11:59 +0000",
+      "minecraft:eroded_badlands": "2025-04-27 20:23:21 +0000",
       "minecraft:badlands": "2025-04-27 19:20:24 +0000",
       "minecraft:beach": "2025-04-27 19:11:07 +0000",
       "minecraft:dark_forest": "2025-04-27 19:05:33 +0000",
@@ -1280,6 +1281,7 @@
     "criteria": {
       "biomeswevegone:atacama_outback": "2025-04-27 19:19:56 +0000",
       "biomeswevegone:windswept_desert": "2025-04-27 19:20:14 +0000",
+      "biomeswevegone:mojave_desert": "2025-04-27 20:24:37 +0000",
       "biomeswevegone:rugged_badlands": "2025-04-27 19:23:46 +0000",
       "biomeswevegone:enchanted_tangle": "2025-04-27 19:19:12 +0000",
       "biomeswevegone:lush_stacks": "2025-04-27 19:16:34 +0000",
@@ -1763,6 +1765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-04-27 20:04:10 +0000"
@@ -1793,6 +1801,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-27 20:32:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_saber": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
@@ -1805,15 +1825,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_katana": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_parrying_dagger": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_quarterstaff": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/palo_verde_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 20:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/huge_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -1841,15 +1897,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-27 20:32:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -1865,9 +1963,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_tomahawk": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_warhammer": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
     },
     "done": true
   },
@@ -1883,9 +2023,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
     "criteria": {
       "has_hay_block": "2025-04-27 20:09:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
     },
     "done": true
   },
@@ -1907,11 +2071,66 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_javelin": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-27 20:21:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-27 20:27:01 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_battle_hammer": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
     },
     "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-04-27 20:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:husk": "2025-04-27 20:31:21 +0000",
+      "minecraft:cave_spider": "2025-04-27 20:29:55 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
@@ -1943,6 +2162,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-27 20:32:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
@@ -1967,9 +2204,27 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-04-27 20:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-27 20:21:29 +0000"
     },
     "done": true
   },
@@ -1979,15 +2234,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_flanged_mace": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-04-27 20:04:10 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:28:18 +0000"
     },
     "done": true
   },
@@ -2003,9 +2288,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 20:32:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_pike": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_battleaxe": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
     },
     "done": true
   },
@@ -2021,6 +2348,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_dagger": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
@@ -2030,6 +2363,18 @@
   "spartanweaponry:recipes/golden_longsword": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_halberd": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -2048,6 +2393,18 @@
   "spartanweaponry:recipes/golden_glaive": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longbow": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
     },
     "done": true
   },
@@ -2075,9 +2432,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_greatsword": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -2100,15 +2481,45 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_longbow": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_lance": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-04-27 20:04:10 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
     },
     "done": true
   },
@@ -2121,6 +2532,12 @@
   "spartanweaponry:recipes/silver_greatsword": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longsword": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -2139,6 +2556,24 @@
   "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
     "criteria": {
       "has_hay_block": "2025-04-27 20:09:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-27 20:21:29 +0000"
     },
     "done": true
   },
@@ -2178,6 +2613,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/paraglider": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/silver_basic_shield": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
@@ -2187,6 +2628,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-27 20:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-27 20:32:23 +0000"
     },
     "done": true
   },
@@ -2205,6 +2652,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-27 20:21:29 +0000"
     },
     "done": true
   },
@@ -2232,9 +2685,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_tomahawk": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battle_hammer": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_throwing_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 20:32:50 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-04-27 20:21:29 +0000"
     },
     "done": true
   },
@@ -2256,9 +2751,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_dagger": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -2280,9 +2799,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_glaive": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_scythe": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-27 20:19:52 +0000"
     },
     "done": true
   },
@@ -2304,9 +2841,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-27 20:32:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-04-27 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
     },
     "done": true
   },
@@ -2316,9 +2865,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
     },
     "done": true
   },
@@ -2331,6 +2898,12 @@
   "spartanweaponry:recipes/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-27 20:28:48 +0000"
     },
     "done": true
   },
@@ -2358,6 +2931,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_flanged_mace": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
@@ -2367,6 +2946,18 @@
   "spartanweaponry:recipes/silver_quarterstaff": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
     },
     "done": true
   },
@@ -2385,6 +2976,24 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-27 19:59:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_desk_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_saber": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/large_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -2436,6 +3045,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 20:32:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
@@ -2448,9 +3069,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-27 20:26:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -2466,9 +3099,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_scythe": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -2481,6 +3132,48 @@
   "spartanweaponry:recipes/golden_greatsword": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-27 20:32:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/birch_planks_from_palo_verde_logs": {
+    "criteria": {
+      "has_logs": "2025-04-27 20:28:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -2505,6 +3198,18 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
     },
     "done": true
   },
@@ -2544,9 +3249,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_halberd": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-27 20:32:50 +0000"
     },
     "done": true
   },
@@ -2574,6 +3291,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
   "stellarity:story/obtain_an_ender_pearl": {
     "criteria": {
       "criteria": "2025-04-27 20:19:09 +0000"
@@ -2598,9 +3321,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_parrying_dagger": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-27 20:32:00 +0000"
     },
     "done": true
   },
@@ -2652,15 +3387,51 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-27 20:21:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_lance": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-27 20:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-27 20:32:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },
@@ -2676,6 +3447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-27 20:32:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_cherry_table": {
     "criteria": {
       "has_gray_carpet": "2025-04-27 20:10:33 +0000"
@@ -2685,6 +3462,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
     },
     "done": true
   },
@@ -2706,6 +3489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-27 20:32:00 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
@@ -2718,9 +3507,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
     "criteria": {
       "has_hay_block": "2025-04-27 20:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-27 20:21:29 +0000"
     },
     "done": true
   },
@@ -2760,9 +3567,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_pike": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:cave_spider": "2025-04-27 20:29:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-04-27 20:28:18 +0000"
     },
     "done": true
   },
@@ -2790,9 +3621,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/simple_handle": {
+    "criteria": {
+      "has_stick": "2025-04-27 20:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-27 20:32:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-04-27 20:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:28:18 +0000"
     },
     "done": true
   },
@@ -2813,8 +3662,10 @@
       "cooked_beef": "2025-04-27 20:13:10 +0000",
       "apple": "2025-04-27 20:14:33 +0000",
       "potato": "2025-04-27 20:01:52 +0000",
+      "bread": "2025-04-27 20:23:09 +0000",
       "golden_apple": "2025-04-27 20:01:58 +0000",
-      "rotten_flesh": "2025-04-27 20:01:49 +0000"
+      "rotten_flesh": "2025-04-27 20:01:49 +0000",
+      "golden_carrot": "2025-04-27 20:23:05 +0000"
     },
     "done": false
   },
@@ -2833,6 +3684,12 @@
   "valhelsia_furniture:recipes/decorations/gray_mangrove_table": {
     "criteria": {
       "has_gray_carpet": "2025-04-27 20:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-27 20:26:13 +0000"
     },
     "done": true
   },

@@ -455,3 +455,60 @@
 [27Apr2025 20:15:55.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Mine? Mine? Mine?]
 [27Apr2025 20:16:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Masquerade]
 [27Apr2025 20:19:09.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has reached the goal [Eye of Darkness]
+[27Apr2025 20:19:54.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[27Apr2025 20:21:23.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Cover Me with Diamonds]
+[27Apr2025 20:22:19.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has fallen
+[27Apr2025 20:22:48.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has been revived
+[27Apr2025 20:24:29.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:29.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:29.589] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:29.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:29.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:29.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:29.992] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:30.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:30.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:30.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:30.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:30.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:30.685] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:30.793] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:30.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:30.998] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:31.094] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:31.192] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:25:15.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[27Apr2025 20:26:13.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:13.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:13.395] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:13.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:13.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:13.683] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:13.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:13.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Diamonds!]
+[27Apr2025 20:26:13.895] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:13.984] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:14.094] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:27.982] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:28.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:28.190] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:28.284] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:28.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:28.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:28.785] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:28.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:28.983] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:29.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:29.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:29.292] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:33.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:33.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:33.485] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:26:33.591] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:27:01.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Sweet Dreams]
+[27Apr2025 20:28:22.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Enter Sandman]
+[27Apr2025 20:28:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Isn't It Iron Pick]
+[27Apr2025 20:29:55.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Monster Hunter]
+[27Apr2025 20:29:56.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has fallen
+[27Apr2025 20:30:22.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has been revived
+[27Apr2025 20:38:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Enchanter]
