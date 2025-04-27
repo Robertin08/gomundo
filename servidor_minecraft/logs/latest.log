@@ -423,3 +423,35 @@
 [27Apr2025 19:43:30.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
 [27Apr2025 19:47:47.889] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.44.164.152:38591] logged in with entity id 24260 at (370.30000001192093, 35.0, -487.0962811027737)
 [27Apr2025 19:47:47.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[27Apr2025 19:54:41.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nittzel[/127.158.15.9:50909] logged in with entity id 25421 at (513.5714795622613, 69.53584062504456, -2778.8956418800594)
+[27Apr2025 19:54:41.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel joined the game
+[27Apr2025 19:54:41.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel fell out of the world
+[27Apr2025 19:57:37.164] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'justleveling:magic_resist'
+[27Apr2025 19:58:32.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [What a Deal!]
+[27Apr2025 20:00:22.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/29402, l='ServerLevel[world]', x=361.35, y=-20.00, z=-503.79] died: Toxic Slime was killed
+[27Apr2025 20:01:14.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [A New Protector...]
+[27Apr2025 20:01:14.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [The Beginning of An Adventure]
+[27Apr2025 20:02:22.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [What Happens in Las Vegas...]
+[27Apr2025 20:02:53.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has fallen
+[27Apr2025 20:03:15.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has been revived
+[27Apr2025 20:04:48.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has fallen
+[27Apr2025 20:04:51.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has been revived
+[27Apr2025 20:04:54.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/35381, l='ServerLevel[world]', x=331.59, y=-20.00, z=-512.17] died: Toxic Slime was killed
+[27Apr2025 20:05:34.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has fallen
+[27Apr2025 20:05:37.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel was shot by Skeleton
+[27Apr2025 20:07:15.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/36563, l='ServerLevel[world]', x=208.81, y=-20.00, z=-566.06] died: Toxic Slime was killed
+[27Apr2025 20:07:38.431] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/36825, l='ServerLevel[world]', x=153.26, y=-20.00, z=-646.26] died: Toxic Slime was killed
+[27Apr2025 20:08:11.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/37272, l='ServerLevel[world]', x=149.26, y=-20.00, z=-645.31] died: Toxic Slime was killed
+[27Apr2025 20:08:21.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/37599, l='ServerLevel[world]', x=201.79, y=-20.00, z=-553.67] died: Toxic Slime was killed
+[27Apr2025 20:08:31.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nittzel) moved wrongly! 0.2575363156995536
+[27Apr2025 20:08:31.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nittzel) moved wrongly! 0.5960600611260816
+[27Apr2025 20:08:31.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nittzel) moved wrongly! 0.9377987414020481
+[27Apr2025 20:09:28.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=128, y=94, z=-611} BlockPos{x=127, y=95, z=-611}
+[27Apr2025 20:09:28.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=128, y=94, z=-611} BlockPos{x=127, y=95, z=-611}
+[27Apr2025 20:09:28.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=128, y=94, z=-611} BlockPos{x=127, y=95, z=-611}
+[27Apr2025 20:12:37.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Who You Gonna Call?]
+[27Apr2025 20:12:55.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has fallen
+[27Apr2025 20:12:59.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has been revived
+[27Apr2025 20:15:55.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Mine? Mine? Mine?]
+[27Apr2025 20:16:01.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Masquerade]
+[27Apr2025 20:19:09.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has reached the goal [Eye of Darkness]
