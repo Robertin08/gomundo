@@ -8375,12 +8375,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-27 20:04:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-27 19:58:32 +0000"
@@ -8390,6 +8384,12 @@
   "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
       "has_item": "2025-04-27 20:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-27 20:04:52 +0000"
     },
     "done": true
   },

@@ -1807,6 +1807,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-27 20:28:18 +0000"
@@ -1894,6 +1900,12 @@
   "valhelsia_furniture:recipes/decorations/gray_acacia_table": {
     "criteria": {
       "has_gray_carpet": "2025-04-27 20:10:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -2041,6 +2053,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-04-27 20:32:27 +0000"
@@ -2074,6 +2092,12 @@
   "valhelsia_furniture:recipes/decorations/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -2153,13 +2177,20 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-27 20:43:53 +0000",
       "minecraft:husk": "2025-04-27 20:31:21 +0000",
-      "minecraft:cave_spider": "2025-04-27 20:29:55 +0000"
+      "minecraft:cave_spider": "2025-04-27 20:29:55 +0000",
+      "minecraft:zombie": "2025-04-27 20:57:26 +0000"
     },
     "done": false
   },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -2283,6 +2314,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-04-27 20:40:43 +0000"
@@ -2298,6 +2335,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -2409,6 +2452,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-27 20:49:10 +0000"
@@ -2436,6 +2485,18 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-27 20:40:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -2544,6 +2605,18 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -2812,6 +2885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-27 20:40:43 +0000"
@@ -2878,6 +2957,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-27 20:28:18 +0000"
@@ -2920,6 +3005,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/warped_desk_drawer": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
@@ -2929,6 +3020,12 @@
   "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-27 20:40:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -2986,6 +3083,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
@@ -3007,6 +3116,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-04-27 20:32:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3070,9 +3185,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-27 20:28:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3085,6 +3212,12 @@
   "valhelsia_furniture:recipes/decorations/gray_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-27 20:51:03 +0000"
     },
     "done": true
   },
@@ -3106,9 +3239,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_flanged_mace": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3136,9 +3281,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_battle_hammer": {
     "criteria": {
       "has_silver_ingot": "2025-04-27 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3238,6 +3395,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-27 20:04:10 +0000"
@@ -3271,6 +3440,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-27 20:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3484,9 +3659,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_javelin": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3517,6 +3710,12 @@
   "valhelsia_furniture:recipes/decorations/orange_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-27 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3556,9 +3755,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3589,6 +3800,12 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-04-27 20:51:03 +0000"
     },
     "done": true
   },
@@ -3634,9 +3851,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/warped_desk": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_bow": "2025-04-27 20:21:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3691,6 +3920,12 @@
   "spartanweaponry:recipes/diamond_heavy_crossbow": {
     "criteria": {
       "has_diamond": "2025-04-27 20:26:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3790,6 +4025,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/warped_table": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-27 20:28:18 +0000"
@@ -3820,6 +4061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
@@ -3829,6 +4076,12 @@
   "spartanweaponry:recipes/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-04-27 20:09:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3880,6 +4133,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_rapier": {
     "criteria": {
       "has_diamond": "2025-04-27 20:26:13 +0000"
@@ -3907,6 +4166,12 @@
   "biomeswevegone:biomeswevegone/husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-27 20:01:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },
@@ -3994,6 +4259,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-27 19:59:21 +0000"
@@ -4003,6 +4274,18 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-04-27 20:39:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-04-27 20:50:14 +0000"
     },
     "done": true
   },

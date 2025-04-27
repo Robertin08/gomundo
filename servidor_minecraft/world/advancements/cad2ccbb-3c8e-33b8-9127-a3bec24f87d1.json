@@ -7637,6 +7637,18 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "cursed_eye": "2025-04-27 20:01:14 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-04-27 20:01:14 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-04-27 20:16:01 +0000"
@@ -7685,21 +7697,9 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-04-27 20:38:52 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/cyan_mangrove_table": {
     "criteria": {
       "has_cyan_carpet": "2025-04-27 20:22:46 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/root": {
-    "criteria": {
-      "cursed_eye": "2025-04-27 20:01:14 +0000"
     },
     "done": true
   },
@@ -7709,15 +7709,15 @@
     },
     "done": true
   },
-  "endrem:main/cursed_eye": {
-    "criteria": {
-      "cursed_eye": "2025-04-27 20:01:14 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/cyan_cherry_table": {
     "criteria": {
       "has_cyan_carpet": "2025-04-27 20:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-27 20:38:52 +0000"
     },
     "done": true
   },
