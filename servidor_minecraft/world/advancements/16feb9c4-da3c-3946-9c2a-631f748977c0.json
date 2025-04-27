@@ -1,4 +1,28 @@
 {
+  "spartanweaponry:recipes/iron_javelin": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_tower_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_scythe": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-04-27 19:11:22 +0000"
@@ -11,9 +35,27 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/sakura_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/bone_pile": {
     "criteria": {
       "has_bone": "2025-04-27 19:14:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
     },
     "done": true
   },
@@ -29,9 +71,63 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_spear": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-04-27 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
     },
     "done": true
   },
@@ -41,9 +137,46 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/root": {
     "criteria": {
       "requirement": "2025-04-27 19:05:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_heavy_crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-27 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-27 19:24:36 +0000",
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
     },
     "done": true
   },
@@ -65,9 +198,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-04-27 19:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-27 19:22:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/white_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
     },
     "done": true
   },
@@ -77,9 +252,39 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_warhammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-04-27 19:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
     },
     "done": true
   },
@@ -89,9 +294,39 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_parrying_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-27 19:22:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_saber": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
     },
     "done": true
   },
@@ -101,9 +336,75 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_rapier": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-04-27 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battleaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/cyan_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
     },
     "done": true
   },
@@ -116,6 +417,18 @@
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-04-27 19:05:21 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
     },
     "done": true
   },
@@ -137,9 +450,75 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
   "stellarity:dragons_den/cursed_tome/root": {
     "criteria": {
       "requirement": "2025-04-27 19:05:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/purple_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
     },
     "done": true
   },
@@ -149,9 +528,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-27 19:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/gray_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/pink_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-27 19:22:43 +0000"
     },
     "done": true
   },
@@ -161,9 +618,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2025-04-27 19:13:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/light_gray_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
     },
     "done": true
   },
@@ -173,15 +648,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_throwing_knife": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/skyris_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-27 19:19:56 +0000"
     },
     "done": true
   },
@@ -197,15 +690,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-27 19:13:29 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battle_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:lush_stacks": "2025-04-27 19:16:34 +0000"
     },
     "done": true
   },
@@ -227,9 +750,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_saber": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
     },
     "done": true
   },
@@ -251,9 +810,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ebony_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/lime_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/crying_obsidian_with_popped_chorus": {
+    "criteria": {
+      "has_item1": "2025-04-27 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
     },
     "done": true
   },
@@ -263,15 +852,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/light_blue_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
     },
     "done": true
   },
@@ -293,9 +912,57 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-04-27 19:13:24 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-27 19:22:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_quarterstaff": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
     },
     "done": true
   },
@@ -305,9 +972,87 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/wooden_lance": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-27 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_desk_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_halberd": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_flanged_mace": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-27 19:12:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_boomerang": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_katana": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
     },
     "done": true
   },
@@ -317,15 +1062,45 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_pike": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-27 19:13:27 +0000"
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/wooden_longsword": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
     },
     "done": true
   },
@@ -341,15 +1116,110 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-27 19:12:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:atacama_outback": "2025-04-27 19:19:56 +0000",
+      "biomeswevegone:windswept_desert": "2025-04-27 19:20:14 +0000",
+      "biomeswevegone:rugged_badlands": "2025-04-27 19:23:46 +0000",
+      "biomeswevegone:enchanted_tangle": "2025-04-27 19:19:12 +0000",
+      "biomeswevegone:lush_stacks": "2025-04-27 19:16:34 +0000",
+      "biomeswevegone:ironwood_gour": "2025-04-27 19:17:35 +0000"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_pike": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/black_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_tomahawk": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_glaive": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-27 19:22:39 +0000"
     },
     "done": true
   },
@@ -365,9 +1235,51 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_longsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-27 19:14:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/florus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
     },
     "done": true
   },
@@ -389,6 +1301,42 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/wooden_katana": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_lance": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2025-04-27 19:12:51 +0000"
@@ -398,6 +1346,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
     },
     "done": true
   },
@@ -413,9 +1367,81 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/gray_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_throwing_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-27 19:15:32 +0000"
     },
     "done": true
   },
@@ -425,9 +1451,21 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/blue_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/witch_hazel_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
     },
     "done": true
   },
@@ -437,9 +1475,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
     },
     "done": true
   },
@@ -448,6 +1504,36 @@
       "log_spam_fixer": "2025-04-27 19:05:22 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-27 19:24:22 +0000"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -461,15 +1547,51 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-04-27 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/red_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
     },
     "done": true
   },
@@ -485,9 +1607,57 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/green_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/green_enchanted_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_greatsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/magenta_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
     },
     "done": true
   },
@@ -497,9 +1667,21 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ironwood_boat": {
     "criteria": {
       "in_water": "2025-04-27 19:11:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
     },
     "done": true
   },
@@ -515,6 +1697,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_scythe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-04-27 19:13:24 +0000"
@@ -524,12 +1718,35 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-04-27 19:11:59 +0000",
+      "minecraft:badlands": "2025-04-27 19:20:24 +0000",
       "minecraft:beach": "2025-04-27 19:11:07 +0000",
       "minecraft:dark_forest": "2025-04-27 19:05:33 +0000",
+      "minecraft:sparse_jungle": "2025-04-27 19:18:26 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-27 19:17:18 +0000",
+      "minecraft:river": "2025-04-27 19:18:12 +0000",
       "minecraft:ocean": "2025-04-27 19:11:08 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-27 19:17:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-27 19:05:22 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
@@ -543,15 +1760,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-27 19:22:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-27 19:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-27 19:12:34 +0000"
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-27 19:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-04-27 19:11:22 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-27 19:22:22 +0000"
     },
     "done": true
   },
@@ -564,6 +1817,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-27 19:13:29 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-27 19:15:35 +0000"
     },
     "done": true
   },
