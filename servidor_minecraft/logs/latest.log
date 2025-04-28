@@ -435,3 +435,42 @@
 [28Apr2025 22:32:33.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Isn't It Iron Pick]
 [28Apr2025 22:32:40.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Stone Age]
 [28Apr2025 22:32:42.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15980, l='ServerLevel[world]', x=-6.26, y=-20.00, z=-878.05] died: Toxic Slime was killed
+[28Apr2025 22:34:14.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=36, z=-928} BlockPos{x=1, y=35, z=-928}
+[28Apr2025 22:34:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> OE
+[28Apr2025 22:34:46.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> QUIEN FUE
+[28Apr2025 22:34:49.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nittzel> yoselyn
+[28Apr2025 22:34:51.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nittzel> XD
+[28Apr2025 22:34:52.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> yo que
+[28Apr2025 22:34:58.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> estaba arreglandolo
+[28Apr2025 22:35:16.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=56, z=-946} BlockPos{x=10, y=57, z=-946}
+[28Apr2025 22:35:16.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=56, z=-946} BlockPos{x=10, y=57, z=-946}
+[28Apr2025 22:35:16.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=56, z=-946} BlockPos{x=10, y=57, z=-946}
+[28Apr2025 22:35:26.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/21397, l='ServerLevel[world]', x=-8.13, y=-20.00, z=-934.04] died: Toxic Slime was killed
+[28Apr2025 22:36:51.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/22429, l='ServerLevel[world]', x=-0.11, y=-20.00, z=-905.65] died: Toxic Slime was killed
+[28Apr2025 22:37:12.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> juan
+[28Apr2025 22:37:14.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> dime
+[28Apr2025 22:37:20.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> se m salio el dc?
+[28Apr2025 22:37:21.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Ol' Betsy]
+[28Apr2025 22:37:38.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> flechas
+[28Apr2025 22:38:17.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> entra a general yos
+[28Apr2025 22:38:53.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Take Aim]
+[28Apr2025 22:39:11.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Incendium]
+[28Apr2025 22:39:11.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [We Need to Go Deeper]
+[28Apr2025 22:39:12.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Radioactive]
+[28Apr2025 22:39:43.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Incendium]
+[28Apr2025 22:39:43.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [We Need to Go Deeper]
+[28Apr2025 22:39:44.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nittzel has made the advancement [Radioactive]
+[28Apr2025 22:40:16.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> ok
+[28Apr2025 22:40:17.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> ptptptp
+[28Apr2025 22:40:25.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has fallen
+[28Apr2025 22:40:37.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/22875, l='ServerLevel[world]', x=73.80, y=-20.00, z=-829.44] died: Toxic Slime was killed
+[28Apr2025 22:40:55.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy tried to swim in lava
+[28Apr2025 22:41:15.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> igual m movi al piso, aun recupero mis cosas?
+[28Apr2025 22:41:42.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/23219, l='ServerLevel[world]', x=93.42, y=-20.00, z=-552.59] died: Toxic Slime was killed
+[28Apr2025 22:41:42.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/23246, l='ServerLevel[world]', x=71.55, y=-20.00, z=-589.07] died: Toxic Slime was killed
+[28Apr2025 22:41:48.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has fallen
+[28Apr2025 22:41:56.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [UNLIMITED POWER!!!]
+[28Apr2025 22:42:11.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy hit the ground too hard
+[28Apr2025 22:42:32.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24038, l='ServerLevel[world]', x=70.93, y=-20.00, z=-643.09] died: Toxic Slime was killed
+[28Apr2025 22:42:44.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Through the Gauntlet]
+[28Apr2025 22:42:58.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/24280, l='ServerLevel[world]', x=-71.67, y=-20.00, z=-864.19] died: Toxic Slime was killed

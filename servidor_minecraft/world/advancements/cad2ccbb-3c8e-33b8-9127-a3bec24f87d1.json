@@ -7773,17 +7773,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-04-28 22:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-04-28 22:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-04-28 22:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-28 22:28:14 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "iceandfire:recipes/misc/chain": {
     "criteria": {
-      "requirement": "2025-04-28 22:28:52 +0000"
+      "has_item": "2025-04-28 22:34:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -7794,6 +7812,12 @@
   "valhelsia_structures:recipes/building_blocks/paper_wall": {
     "criteria": {
       "has_bamboo": "2025-04-28 22:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-04-28 22:34:05 +0000"
     },
     "done": true
   },
@@ -7809,9 +7833,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-28 22:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-28 22:34:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-28 22:28:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/spruce_post": {
+    "criteria": {
+      "has_item": "2025-04-28 22:36:55 +0000"
     },
     "done": true
   },

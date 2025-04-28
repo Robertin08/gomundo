@@ -11,6 +11,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_glaive": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_longsword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/sakura_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
@@ -41,6 +53,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_katana": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battle_hammer": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
@@ -53,9 +77,33 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-28 22:32:48 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-04-28 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_throwing_knife": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -80,6 +128,12 @@
   "stellarity:cursed_tome/root": {
     "criteria": {
       "requirement": "2025-04-28 22:09:03 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/rocky_stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -137,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
@@ -170,6 +230,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-28 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -212,6 +278,18 @@
   "spartanweaponry:recipes/wooden_javelin": {
     "criteria": {
       "has_wood": "2025-04-28 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sabrewing": {
+    "criteria": {
+      "requirement": "2025-04-28 22:38:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-28 22:38:51 +0000"
     },
     "done": true
   },
@@ -260,6 +338,18 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-28 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_boomerang": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-28 22:37:21 +0000"
     },
     "done": true
   },
@@ -335,9 +425,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_tomahawk": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -365,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-28 22:32:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
@@ -386,6 +494,12 @@
   "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-28 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battleaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -413,6 +527,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_throwing_knife": {
     "criteria": {
       "has_wood": "2025-04-28 22:26:27 +0000"
@@ -428,6 +548,18 @@
   "biomeswevegone:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-28 22:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -452,6 +584,12 @@
   "biomeswevegone:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-28 22:38:51 +0000"
     },
     "done": true
   },
@@ -497,6 +635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-28 22:26:27 +0000"
@@ -509,9 +653,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-28 22:32:48 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sabrewing": {
+    "criteria": {
+      "requirement": "2025-04-28 22:38:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_rapier": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -542,6 +710,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-04-28 22:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -581,15 +755,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_saber": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_scythe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -605,9 +797,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_greatsword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_glaive": {
     "criteria": {
       "has_wood": "2025-04-28 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-28 22:32:33 +0000"
     },
     "done": true
   },
@@ -623,9 +827,33 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-28 22:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -671,6 +899,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_parrying_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
@@ -707,6 +941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-28 22:32:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
@@ -732,6 +972,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
@@ -753,6 +999,12 @@
   "biomeswevegone:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-28 22:32:48 +0000"
     },
     "done": true
   },
@@ -834,6 +1086,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-04-28 22:37:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
@@ -843,6 +1101,12 @@
   "biomeswevegone:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-28 22:32:48 +0000"
     },
     "done": true
   },
@@ -930,11 +1194,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-28 22:32:48 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-04-28 22:09:04 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:recipes/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:recipes/transportation/witch_hazel_chest_boat": {
     "criteria": {
@@ -954,6 +1230,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-28 22:38:51 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_quarterstaff": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-28 22:26:27 +0000"
@@ -963,6 +1257,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-28 22:26:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-28 22:38:51 +0000"
     },
     "done": true
   },
@@ -1050,6 +1350,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_flanged_mace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-28 22:32:48 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
@@ -1071,6 +1383,18 @@
   "biomeswevegone:recipes/transportation/ironwood_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-28 22:38:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_javelin": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
@@ -1104,6 +1428,24 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_pike": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_warhammer": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-28 22:32:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-04-28 22:12:46 +0000",
@@ -1133,6 +1475,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-28 22:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-28 22:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_carrot": "2025-04-28 22:12:00 +0000",
@@ -1140,9 +1506,21 @@
     },
     "done": false
   },
+  "spartanweaponry:recipes/stone_halberd": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-28 22:32:40 +0000"
     },
     "done": true
   },
