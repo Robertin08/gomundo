@@ -7773,9 +7773,21 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-04-28 22:42:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
       "has_polished_blackstone_slab": "2025-04-28 22:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-04-28 22:47:27 +0000"
     },
     "done": true
   },
@@ -7794,6 +7806,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-28 22:28:14 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-04-28 22:42:54 +0000"
     },
     "done": true
   },
@@ -7821,6 +7839,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/big_cyan_glazed_jar": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-04-28 22:47:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-28 22:28:14 +0000"
@@ -7836,6 +7860,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-28 22:36:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-04-28 22:47:17 +0000"
     },
     "done": true
   },
@@ -7869,6 +7899,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-04-28 22:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-04-28 22:10:37 +0000"
@@ -7890,6 +7926,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-04-28 22:10:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/cyan_glazed_jar": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-04-28 22:47:27 +0000"
     },
     "done": true
   },

@@ -3560,6 +3560,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-04-28 22:46:35 +0000",
       "minecraft:skeleton": "2025-04-27 20:43:53 +0000",
       "minecraft:spider": "2025-04-27 21:58:02 +0000",
       "minecraft:creeper": "2025-04-27 22:21:25 +0000",
@@ -4896,6 +4897,12 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-04-28 22:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-04-28 22:26:42 +0000"
@@ -4905,6 +4912,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-28 22:34:21 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-04-28 22:39:44 +0000"
     },
     "done": true
   },
@@ -4919,6 +4932,12 @@
       "has_andesite": "2025-04-28 22:26:42 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-04-28 22:39:44 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
@@ -4938,6 +4957,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-04-28 22:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-04-28 22:29:34 +0000"
@@ -4953,6 +4978,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
       "has_dragonscales_electric": "2025-04-28 22:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-28 22:39:43 +0000"
     },
     "done": true
   },
@@ -4989,6 +5020,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-28 22:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-28 22:39:43 +0000"
     },
     "done": true
   },
