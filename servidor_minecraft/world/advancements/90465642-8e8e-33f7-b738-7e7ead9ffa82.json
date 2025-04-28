@@ -269,6 +269,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-04-28 23:01:41 +0000",
+      "minecraft:zombie": "2025-04-28 23:01:46 +0000"
+    },
+    "done": false
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_chair": {
     "criteria": {
       "has_white_wool": "2025-04-28 22:39:34 +0000"
@@ -1852,6 +1859,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-04-28 22:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-04-28 23:01:41 +0000"
     },
     "done": true
   },
