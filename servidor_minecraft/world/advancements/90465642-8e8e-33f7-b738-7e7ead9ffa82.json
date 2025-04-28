@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-04-28 22:55:02 +0000"
+    },
+    "done": true
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2025-04-28 22:39:11 +0000"
@@ -401,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-28 22:55:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_quarterstaff": {
     "criteria": {
       "has_wood": "2025-04-28 22:26:27 +0000"
@@ -521,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-28 22:55:02 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
@@ -629,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-28 22:55:02 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_curtain": {
     "criteria": {
       "has_item": "2025-04-28 22:39:34 +0000"
@@ -734,6 +758,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-28 22:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-04-28 22:52:49 +0000"
     },
     "done": true
   },
@@ -867,6 +897,12 @@
   "biomeswevegone:recipes/transportation/cika_boat": {
     "criteria": {
       "in_water": "2025-04-28 22:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-28 22:55:02 +0000"
     },
     "done": true
   },
@@ -1074,6 +1110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-04-28 22:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-28 22:13:26 +0000"
@@ -1255,6 +1297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-04-28 22:55:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-04-28 22:26:27 +0000"
@@ -1408,6 +1456,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_crimson_chair": {
     "criteria": {
       "has_white_wool": "2025-04-28 22:39:34 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/obtain_an_ender_pearl": {
+    "criteria": {
+      "criteria": "2025-04-28 22:52:49 +0000"
     },
     "done": true
   },
@@ -1639,6 +1693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-28 22:55:02 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-28 22:26:27 +0000"
@@ -1777,6 +1837,18 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-28 22:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-28 22:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-04-28 22:32:33 +0000"
@@ -1836,6 +1908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-28 22:55:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_carrot": "2025-04-28 22:12:00 +0000",
@@ -1876,6 +1954,12 @@
   "biomeswevegone:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-28 22:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-04-28 22:55:02 +0000"
     },
     "done": true
   },

@@ -3564,6 +3564,7 @@
       "minecraft:skeleton": "2025-04-27 20:43:53 +0000",
       "minecraft:spider": "2025-04-27 21:58:02 +0000",
       "minecraft:creeper": "2025-04-27 22:21:25 +0000",
+      "minecraft:phantom": "2025-04-28 22:52:18 +0000",
       "minecraft:wither_skeleton": "2025-04-27 22:07:27 +0000",
       "minecraft:husk": "2025-04-27 20:31:21 +0000",
       "minecraft:cave_spider": "2025-04-27 20:29:55 +0000",
@@ -4897,6 +4898,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-04-28 22:49:29 +0000"
+    },
+    "done": false
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2025-04-28 22:39:43 +0000"
@@ -4921,9 +4928,27 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-04-28 22:50:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-28 22:26:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_yellow_glazed_jar": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-28 22:57:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2025-04-28 22:56:51 +0000"
     },
     "done": true
   },
@@ -4957,6 +4982,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/yellow_glazed_jar": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-28 22:57:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-04-28 22:46:19 +0000"
@@ -4972,6 +5003,12 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2025-04-28 22:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-28 22:57:11 +0000"
     },
     "done": true
   },
@@ -5029,6 +5066,12 @@
     },
     "done": true
   },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-04-28 22:52:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-04-28 22:26:42 +0000"
@@ -5038,6 +5081,18 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-04-28 22:17:42 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2025-04-28 22:50:09 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-28 22:50:10 +0000"
     },
     "done": true
   },
