@@ -109,6 +109,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-04-30 22:16:03 +0000",
+      "apple": "2025-04-30 22:38:18 +0000",
       "golden_carrot": "2025-04-28 22:12:00 +0000",
       "cooked_chicken": "2025-04-30 22:19:30 +0000",
       "carrot": "2025-04-28 22:22:59 +0000"
@@ -2506,6 +2507,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 21:49:45 +0000"
@@ -2583,6 +2590,12 @@
       "has_iron_ingot": "2025-04-30 21:49:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/shears": {
     "criteria": {
@@ -2680,6 +2693,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 21:49:45 +0000"
@@ -2769,6 +2788,12 @@
       "has_copper_ingot": "2025-04-30 21:49:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
@@ -2866,6 +2891,24 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-04-30 22:26:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
+  },
   "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-04-30 21:49:27 +0000"
@@ -2949,6 +2992,12 @@
       "has_sandstone": "2025-04-30 21:51:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
@@ -3052,6 +3101,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-04-30 22:21:33 +0000"
@@ -3154,6 +3209,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:recipes/building_blocks/purple_sand": {
     "criteria": {
       "has_sand": "2025-04-30 21:49:45 +0000"
@@ -3183,6 +3244,12 @@
       "has_redstone": "2025-04-30 22:14:54 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/iron_lance": {
     "criteria": {
@@ -3219,6 +3286,12 @@
       "has_copper_ingot": "2025-04-30 21:49:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/iron_throwing_knife": {
     "criteria": {
@@ -3297,6 +3370,12 @@
       "has_copper_ingot": "2025-04-30 21:49:27 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-30 22:46:32 +0000"
+    },
+    "done": false
   },
   "valhelsia_structures:recipes/building_blocks/red_metal_framed_glass": {
     "criteria": {

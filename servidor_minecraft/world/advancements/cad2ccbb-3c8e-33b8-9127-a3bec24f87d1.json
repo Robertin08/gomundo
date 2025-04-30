@@ -8270,6 +8270,12 @@
     },
     "done": true
   },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-04-30 22:41:32 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_shell": {
     "criteria": {
       "soul_heart": "2025-04-30 22:17:11 +0000"
