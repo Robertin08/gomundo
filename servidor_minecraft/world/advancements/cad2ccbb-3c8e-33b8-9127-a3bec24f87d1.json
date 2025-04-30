@@ -8216,77 +8216,23 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
+      "tool": "2025-04-30 21:04:11 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
+      "traded": "2025-04-30 20:43:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
+      "has_item": "2025-04-30 21:04:47 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-28 23:15:56 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
