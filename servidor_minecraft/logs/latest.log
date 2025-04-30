@@ -389,3 +389,49 @@
 [30Apr2025 22:05:58.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=501, y=64, z=-5011} BlockPos{x=502, y=64, z=-5011}
 [30Apr2025 22:06:57.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has fallen
 [30Apr2025 22:07:32.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has been revived
+[30Apr2025 22:09:10.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=504, y=64, z=-5009} BlockPos{x=504, y=62, z=-5011}
+[30Apr2025 22:09:24.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=487, y=64, z=-5010} BlockPos{x=486, y=63, z=-5009}
+[30Apr2025 22:09:29.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 moved wrongly!
+[30Apr2025 22:11:16.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=477, y=64, z=-5007} BlockPos{x=477, y=63, z=-5009}
+[30Apr2025 22:11:17.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=477, y=63, z=-5006} BlockPos{x=478, y=63, z=-5006}
+[30Apr2025 22:11:17.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=477, y=63, z=-5006} BlockPos{x=478, y=63, z=-5006}
+[30Apr2025 22:11:18.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=478, y=63, z=-5006} BlockPos{x=478, y=63, z=-5007}
+[30Apr2025 22:11:18.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=478, y=63, z=-5006} BlockPos{x=478, y=63, z=-5007}
+[30Apr2025 22:11:24.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=479, y=65, z=-5008} BlockPos{x=479, y=64, z=-5009}
+[30Apr2025 22:11:54.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=491, y=64, z=-5006} BlockPos{x=492, y=62, z=-5007}
+[30Apr2025 22:12:55.421] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/2666, l='ServerLevel[world]', x=320.70, y=65.00, z=-5014.50] died, message: 'Butcher was pricked to death'
+[30Apr2025 22:16:38.370] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16584, l='ServerLevel[world]', x=425.50, y=-36.00, z=-4952.50]
+[30Apr2025 22:16:39.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[30Apr2025 22:16:41.573] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16597, l='ServerLevel[world]', x=422.50, y=-36.00, z=-4959.50]
+[30Apr2025 22:16:43.174] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/16602, l='ServerLevel[world]', x=423.50, y=-36.00, z=-4959.50]
+[30Apr2025 22:17:11.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Rocks Off!]
+[30Apr2025 22:19:07.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Eye of The Storm]
+[30Apr2025 22:19:09.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [You Monster...]
+[30Apr2025 22:19:31.827] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:31.923] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:32.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:32.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:32.308] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:32.396] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:32.482] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:32.562] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:32.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:32.724] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:32.827] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:33.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:33.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:33.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:38.234] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:38.331] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:38.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:38.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:38.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:38.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:38.823] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:38.927] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:19:39.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[30Apr2025 22:21:12.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has fallen
+[30Apr2025 22:21:18.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has been revived
+[30Apr2025 22:21:27.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2668, l='ServerLevel[world]', x=378.35, y=68.00, z=-5030.70] died, message: 'Fletcher was pricked to death'
+[30Apr2025 22:21:47.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Eye of The Storm]
+[30Apr2025 22:25:12.922] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/14956, l='ServerLevel[world]', x=327.67, y=65.92, z=-5003.32] died, message: 'Butcher was pricked to death'

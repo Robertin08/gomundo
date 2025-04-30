@@ -8234,6 +8234,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_grottol": {
+    "criteria": {
+      "grottol": "2025-04-30 22:19:09 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2025-04-30 21:53:13 +0000"
@@ -8246,9 +8252,33 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-04-30 22:21:47 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/pine_planks": {
     "criteria": {
       "has_log": "2025-04-30 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-04-30 22:16:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-04-30 22:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-30 22:16:57 +0000"
     },
     "done": true
   },
