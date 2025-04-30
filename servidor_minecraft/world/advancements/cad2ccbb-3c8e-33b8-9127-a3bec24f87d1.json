@@ -2265,6 +2265,7 @@
       "minecraft:cave_spider": "2025-04-23 22:29:55 +0000",
       "minecraft:piglin": "2025-04-27 19:24:48 +0000",
       "minecraft:stray": "2025-04-23 20:51:13 +0000",
+      "minecraft:enderman": "2025-04-30 23:01:18 +0000",
       "minecraft:zombie": "2025-04-23 04:15:13 +0000",
       "minecraft:drowned": "2025-04-26 22:18:45 +0000",
       "minecraft:zombie_villager": "2025-04-28 21:01:09 +0000"
@@ -3960,6 +3961,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:atacama_outback": "2025-04-24 00:23:16 +0000",
+      "biomeswevegone:redwood_thicket": "2025-04-30 23:05:38 +0000",
       "biomeswevegone:araucaria_savanna": "2025-04-23 23:19:59 +0000",
       "biomeswevegone:windswept_desert": "2025-04-24 00:35:55 +0000",
       "biomeswevegone:crag_gardens": "2025-04-24 00:23:38 +0000",
@@ -8234,6 +8236,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-04-30 22:59:33 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_grottol": {
     "criteria": {
       "grottol": "2025-04-30 22:19:09 +0000"
@@ -8252,9 +8260,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-04-30 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-30 23:04:48 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-04-30 22:21:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-04-30 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-04-30 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-04-30 22:59:33 +0000"
     },
     "done": true
   },
@@ -8282,9 +8320,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-04-30 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-30 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-30 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-04-30 23:01:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-04-30 22:16:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-04-30 22:59:33 +0000"
     },
     "done": true
   },

@@ -2938,6 +2938,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:atacama_outback": "2025-04-23 23:41:39 +0000",
+      "biomeswevegone:redwood_thicket": "2025-04-30 23:06:36 +0000",
       "biomeswevegone:cika_woods": "2025-04-23 23:01:50 +0000",
       "biomeswevegone:araucaria_savanna": "2025-04-23 23:17:23 +0000",
       "biomeswevegone:windswept_desert": "2025-04-24 01:33:28 +0000",
@@ -8808,6 +8809,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-04-30 22:31:52 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-04-30 23:01:33 +0000"
     },
     "done": true
   },
