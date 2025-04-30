@@ -968,6 +968,7 @@
       "minecraft:spider": "2025-04-23 04:15:13 +0000",
       "minecraft:creeper": "2025-04-23 22:23:05 +0000",
       "minecraft:slime": "2025-04-26 03:58:19 +0000",
+      "minecraft:evoker": "2025-04-30 23:14:09 +0000",
       "minecraft:phantom": "2025-04-25 04:07:26 +0000",
       "minecraft:zombified_piglin": "2025-04-28 01:01:03 +0000",
       "minecraft:witch": "2025-04-24 00:13:11 +0000",
@@ -977,6 +978,7 @@
       "minecraft:stray": "2025-04-23 21:10:46 +0000",
       "minecraft:silverfish": "2025-04-24 00:58:39 +0000",
       "minecraft:enderman": "2025-04-26 03:01:39 +0000",
+      "minecraft:vex": "2025-04-30 23:14:37 +0000",
       "minecraft:zombie": "2025-04-23 04:11:12 +0000",
       "minecraft:drowned": "2025-04-25 03:53:13 +0000",
       "minecraft:zombie_villager": "2025-04-25 03:35:00 +0000"
@@ -8758,9 +8760,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-04-30 23:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-04-30 22:38:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-04-30 23:10:24 +0000"
     },
     "done": true
   },
@@ -8776,9 +8790,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-04-30 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-30 23:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-04-30 22:40:31 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:15:40 +0000"
     },
     "done": true
   },
@@ -8788,15 +8820,57 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/spellbooks/conveyance": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:09 +0000"
+    },
+    "done": true
+  },
   "endrem:main/corrupted_eye": {
     "criteria": {
       "corrupted_eye": "2025-04-30 22:54:21 +0000"
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/unlock_clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:15:40 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/light": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sharanga": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-04-30 22:31:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-30 23:10:24 +0000"
     },
     "done": true
   },
@@ -8812,9 +8886,33 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/sharanga": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:53 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:09 +0000"
+    },
+    "done": true
+  },
   "endrem:main/cursed_eye": {
     "criteria": {
       "cursed_eye": "2025-04-30 23:01:33 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-04-30 23:10:24 +0000"
     },
     "done": true
   },

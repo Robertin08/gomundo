@@ -2259,13 +2259,17 @@
       "minecraft:piglin_brute": "2025-04-27 19:20:16 +0000",
       "minecraft:creeper": "2025-04-25 04:07:33 +0000",
       "minecraft:slime": "2025-04-26 04:07:36 +0000",
+      "minecraft:evoker": "2025-04-30 23:15:30 +0000",
       "minecraft:phantom": "2025-04-25 04:08:30 +0000",
+      "minecraft:witch": "2025-04-30 23:14:07 +0000",
       "minecraft:wither_skeleton": "2025-04-25 04:08:40 +0000",
       "minecraft:husk": "2025-04-23 04:46:17 +0000",
       "minecraft:cave_spider": "2025-04-23 22:29:55 +0000",
       "minecraft:piglin": "2025-04-27 19:24:48 +0000",
       "minecraft:stray": "2025-04-23 20:51:13 +0000",
       "minecraft:enderman": "2025-04-30 23:01:18 +0000",
+      "minecraft:silverfish": "2025-04-30 23:19:19 +0000",
+      "minecraft:vex": "2025-04-30 23:19:29 +0000",
       "minecraft:zombie": "2025-04-23 04:15:13 +0000",
       "minecraft:drowned": "2025-04-26 22:18:45 +0000",
       "minecraft:zombie_villager": "2025-04-28 21:01:09 +0000"
@@ -8236,15 +8240,87 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-30 23:19:04 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/strengthened_by_fire": {
+    "criteria": {
+      "criteria": "2025-04-30 23:19:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2025-04-30 22:59:33 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_grottol": {
     "criteria": {
       "grottol": "2025-04-30 22:19:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
     },
     "done": true
   },
@@ -8278,6 +8354,18 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-30 23:13:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-04-30 23:04:48 +0000"
@@ -8290,9 +8378,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-30 23:19:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
       "has_item": "2025-04-30 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/drop_rare_illager_loot": {
+    "criteria": {
+      "drop5": "2025-04-30 23:18:34 +0000"
     },
     "done": true
   },
@@ -8302,9 +8414,21 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/spellbooks/conveyance": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:15:30 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2025-04-30 22:16:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
     },
     "done": true
   },
@@ -8320,9 +8444,45 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/light": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:15:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
       "has_item": "2025-04-30 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_sharanga": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
     },
     "done": true
   },
@@ -8338,6 +8498,24 @@
     },
     "done": true
   },
+  "stellarity:recipes/slime_ball_from_ender_eye": {
+    "criteria": {
+      "has_item": "2025-04-30 23:19:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/sharanga": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:18:28 +0000"
+    },
+    "done": true
+  },
   "stellarity:adventure/anger_enderman": {
     "criteria": {
       "anger_enderman": "2025-04-30 23:01:09 +0000"
@@ -8350,9 +8528,33 @@
     },
     "done": true
   },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-30 23:14:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-04-30 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:15:30 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-04-30 23:19:04 +0000"
     },
     "done": true
   },
