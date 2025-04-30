@@ -8396,6 +8396,18 @@
     },
     "done": true
   },
+  "stellarity:cursed_tome/clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-30 23:28:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
       "has_item": "2025-04-30 22:59:33 +0000"
@@ -8435,6 +8447,12 @@
   "endrem:main/corrupted_eye": {
     "criteria": {
       "corrupted_eye": "2025-04-30 22:41:32 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:21:25 +0000"
     },
     "done": true
   },
@@ -8513,6 +8531,12 @@
   "stellarity:cursed_tome/sharanga": {
     "criteria": {
       "requirement2": "2025-04-30 23:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-30 23:28:34 +0000"
     },
     "done": true
   },

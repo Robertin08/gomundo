@@ -89,6 +89,7 @@
       "minecraft:bamboo_jungle": "2025-04-23 23:34:49 +0000",
       "minecraft:wooded_badlands": "2025-04-24 01:58:03 +0000",
       "minecraft:badlands": "2025-04-24 01:39:15 +0000",
+      "minecraft:savanna_plateau": "2025-04-30 23:22:58 +0000",
       "minecraft:beach": "2025-04-23 03:27:00 +0000",
       "minecraft:dark_forest": "2025-04-23 03:26:32 +0000",
       "minecraft:mangrove_swamp": "2025-04-24 20:32:15 +0000",
@@ -2954,6 +2955,7 @@
       "biomeswevegone:white_mangrove_marshes": "2025-04-24 20:31:46 +0000",
       "biomeswevegone:jacaranda_jungle": "2025-04-24 00:25:32 +0000",
       "biomeswevegone:red_rock_valley": "2025-04-24 01:54:54 +0000",
+      "biomeswevegone:firecracker_chaparral": "2025-04-30 23:22:59 +0000",
       "biomeswevegone:lush_stacks": "2025-04-24 00:24:56 +0000",
       "biomeswevegone:sierra_badlands": "2025-04-24 02:29:49 +0000",
       "biomeswevegone:ironwood_gour": "2025-04-23 23:18:13 +0000",
@@ -8820,6 +8822,18 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-30 23:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-30 23:22:53 +0000"
+    },
+    "done": true
+  },
   "stellarity:cursed_tome/spellbooks/conveyance": {
     "criteria": {
       "requirement2": "2025-04-30 23:14:09 +0000"
@@ -8895,6 +8909,12 @@
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
     "criteria": {
       "requirement2": "2025-04-30 23:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-30 23:22:53 +0000"
     },
     "done": true
   },
