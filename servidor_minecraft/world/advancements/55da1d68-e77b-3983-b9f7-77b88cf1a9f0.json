@@ -8685,27 +8685,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-30 20:52:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-30 20:52:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-30 20:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-04-30 21:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_bwg_2_dye_tag": {
     "criteria": {
       "has_2_dye_tag": "2025-04-30 21:03:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-04-30 21:06:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-04-30 21:20:28 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:rapier": {
-    "criteria": {
-      "has_rapier": "2025-04-30 21:23:10 +0000"
     },
     "done": true
   },
@@ -8721,15 +8727,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_raw_silver": "2025-04-30 20:52:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-04-30 20:52:53 +0000"
+      "has_log": "2025-04-30 21:06:04 +0000"
     },
     "done": true
   },
@@ -8739,9 +8739,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_raw_silver": "2025-04-30 20:52:53 +0000"
+      "has_soul_sand": "2025-04-30 21:20:28 +0000"
     },
     "done": true
   },
@@ -8751,9 +8751,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
+  "spartanweaponry:rapier": {
     "criteria": {
-      "has_2_dye_tag": "2025-04-30 21:02:04 +0000"
+      "has_rapier": "2025-04-30 21:23:10 +0000"
     },
     "done": true
   },

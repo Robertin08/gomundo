@@ -414,6 +414,8 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:araucaria_savanna": "2025-04-30 21:47:09 +0000",
+      "biomeswevegone:mojave_desert": "2025-04-30 21:47:18 +0000",
       "biomeswevegone:ironwood_gour": "2025-04-28 22:13:55 +0000",
       "biomeswevegone:allium_shrubland": "2025-04-30 21:00:08 +0000",
       "biomeswevegone:baobab_savanna": "2025-04-28 22:13:58 +0000"
@@ -1996,6 +1998,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:creeper": "2025-04-28 23:01:41 +0000",
+      "minecraft:husk": "2025-04-30 21:40:54 +0000",
       "minecraft:zombie": "2025-04-28 23:01:46 +0000"
     },
     "done": false
@@ -2012,27 +2015,237 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-04-30 20:45:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-30 20:45:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-04-30 20:45:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-30 20:45:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-04-30 20:45:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-04-30 20:45:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-30 20:45:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-04-30 20:47:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
-      "has_stick": "2025-04-30 21:29:45 +0000"
+      "has_leather": "2025-04-30 20:47:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
-      "has_bone_meal": "2025-04-30 21:23:54 +0000"
+      "has_leather": "2025-04-30 20:47:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
-      "has_stick": "2025-04-30 21:29:45 +0000"
+      "has_leather": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/explorers_tent": {
+    "criteria": {
+      "has_leather": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-30 20:47:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/paper_wall": {
+    "criteria": {
+      "has_bamboo": "2025-04-30 20:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-30 20:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-30 20:47:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-30 20:47:50 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-04-30 20:48:23 +0000"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2025-04-30 20:48:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-30 20:52:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-30 20:52:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-30 20:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-30 20:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-30 20:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-30 20:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-30 20:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-04-30 20:58:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-04-30 20:59:48 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-30 21:00:18 +0000"
     },
     "done": true
   },
@@ -2042,9 +2255,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
     "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
+      "has_2_dye_tag": "2025-04-30 21:00:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-30 21:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_bwg_2_dye_tag": {
+    "criteria": {
+      "has_2_dye_tag": "2025-04-30 21:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-04-30 21:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-30 21:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-04-30 21:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-30 21:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-30 21:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-30 21:23:54 +0000"
     },
     "done": true
   },
@@ -2060,12 +2321,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/combat/pole_from_leather": {
-    "criteria": {
-      "has_stick": "2025-04-30 21:29:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_pink_bed": {
     "criteria": {
       "has_needed_dye": "2025-04-30 21:25:29 +0000"
@@ -2078,15 +2333,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
     "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
+      "has_needed_dye": "2025-04-30 21:25:29 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
     "criteria": {
-      "has_item": "2025-04-30 20:45:41 +0000"
+      "has_needed_dye": "2025-04-30 21:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-04-30 21:25:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/pink_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-04-30 21:25:29 +0000"
     },
     "done": true
   },
@@ -2096,15 +2363,45 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
+      "has_log": "2025-04-30 21:29:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_beef": "2025-04-30 20:47:00 +0000"
+      "has_logs": "2025-04-30 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-30 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/oak_post": {
+    "criteria": {
+      "has_item": "2025-04-30 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-30 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-30 21:29:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2025-04-30 21:29:45 +0000"
     },
     "done": true
   },
@@ -2126,36 +2423,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-04-30 21:29:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_helmet": {
-    "criteria": {
-      "has_item": "2025-04-30 20:45:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-30 20:45:54 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
-    "criteria": {
-      "apple": "2025-04-30 20:59:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-04-30 21:29:45 +0000"
@@ -2168,129 +2435,9 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/explorers_tent": {
-    "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-04-30 21:10:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-30 21:29:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-04-30 21:29:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_leggings": {
-    "criteria": {
-      "has_item": "2025-04-30 20:45:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_boots": {
-    "criteria": {
-      "has_item": "2025-04-30 20:45:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-30 21:29:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-04-30 20:47:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-04-30 21:23:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-04-30 21:05:05 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/leather_longbow": {
-    "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/paper_wall": {
-    "criteria": {
-      "has_bamboo": "2025-04-30 20:47:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-04-30 20:58:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/blindfold": {
-    "criteria": {
-      "has_item": "2025-04-30 20:47:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-04-30 20:52:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-04-30 20:58:47 +0000"
-    },
-    "done": true
-  },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-04-30 20:48:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-04-30 21:25:29 +0000"
-    },
-    "done": true
-  },
-  "paraglider:all_vessels": {
-    "criteria": {
-      "code_triggered": "2025-04-30 20:48:54 +0000"
     },
     "done": true
   },
@@ -2300,93 +2447,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-04-30 21:12:41 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-04-30 21:01:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-04-30 20:58:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_bwg_2_dye_tag": {
-    "criteria": {
-      "has_2_dye_tag": "2025-04-30 21:02:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-04-30 20:58:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-04-30 21:25:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
-    "criteria": {
-      "has_raw_silver": "2025-04-30 20:52:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
-    "criteria": {
-      "has_dragonscales_gray": "2025-04-30 20:45:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_pink_dye": "2025-04-30 21:25:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
-    "criteria": {
-      "has_raw_silver": "2025-04-30 20:52:40 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/leather_heavy_crossbow": {
-    "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/pink_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_color": "2025-04-30 21:25:29 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-04-30 21:00:18 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/handle_from_wool": {
     "criteria": {
       "has_stick": "2025-04-30 21:29:45 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/quiver_compartment": {
-    "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
     },
     "done": true
   },
@@ -2396,33 +2459,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-04-30 20:58:47 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-04-30 20:47:00 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/oak_post": {
-    "criteria": {
-      "has_item": "2025-04-30 21:29:42 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/pole_from_string": {
     "criteria": {
       "has_stick": "2025-04-30 21:29:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-04-30 21:11:55 +0000"
     },
     "done": true
   },
@@ -2432,39 +2471,837 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "valhelsia_structures:recipes/building_blocks/bone_pile": {
     "criteria": {
-      "has_bamboo": "2025-04-30 20:47:50 +0000"
+      "has_bone": "2025-04-30 21:32:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye_from_bwg_2_dye_tag": {
+  "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
     "criteria": {
-      "has_2_dye_tag": "2025-04-30 21:00:38 +0000"
+      "has_bone": "2025-04-30 21:32:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_bamboo": "2025-04-30 20:47:50 +0000"
+      "has_bone": "2025-04-30 21:32:40 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
+  "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
-      "has_item": "2025-04-30 20:45:41 +0000"
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "spartanshields:recipes/iron_tower_shield": {
     "criteria": {
-      "has_bamboo": "2025-04-30 20:47:50 +0000"
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
-      "has_beef": "2025-04-30 20:47:00 +0000"
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/white_sand": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_heavy_crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/white_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_warhammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_parrying_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_rapier": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battleaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/sandy_dirt": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/cyan_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/purple_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/pink_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/black_sand": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/light_gray_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_battle_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_saber": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/lime_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/light_blue_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_quarterstaff": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_halberd": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_flanged_mace": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_boomerang": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_katana": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_pike": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/black_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_tomahawk": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_glaive": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/purple_sand": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_lance": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/gray_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_throwing_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-04-30 21:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/blue_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/blue_sand": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/red_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/green_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_longbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_greatsword": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/magenta_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-04-30 21:41:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pink_sand": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-04-30 21:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_scythe": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-30 21:51:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-04-30 21:51:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-30 21:49:27 +0000"
     },
     "done": true
   },

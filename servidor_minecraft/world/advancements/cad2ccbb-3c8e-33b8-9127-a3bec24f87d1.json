@@ -8216,21 +8216,39 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-04-30 21:04:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-30 20:43:32 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-04-30 21:04:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_arrow": {
     "criteria": {
       "has_item": "2025-04-30 21:04:47 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-04-30 21:53:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-30 21:49:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_log": "2025-04-30 21:53:13 +0000"
     },
     "done": true
   },
