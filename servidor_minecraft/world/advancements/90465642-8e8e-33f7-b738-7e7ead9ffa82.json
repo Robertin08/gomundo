@@ -1997,6 +1997,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-30 21:59:42 +0000",
       "minecraft:creeper": "2025-04-28 23:01:41 +0000",
       "minecraft:husk": "2025-04-30 21:40:54 +0000",
       "minecraft:zombie": "2025-04-28 23:01:46 +0000"
@@ -2543,6 +2544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-30 21:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 21:49:45 +0000"
@@ -2885,6 +2892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-30 21:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-04-30 21:49:27 +0000"
@@ -3146,6 +3159,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-30 21:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-04-30 21:54:56 +0000"
     },
     "done": true
   },
