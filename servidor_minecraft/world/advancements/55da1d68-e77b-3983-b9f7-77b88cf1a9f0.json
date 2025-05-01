@@ -967,6 +967,7 @@
       "minecraft:ghast": "2025-04-28 22:43:27 +0000",
       "minecraft:hoglin": "2025-04-25 04:08:36 +0000",
       "minecraft:vindicator": "2025-04-23 03:37:02 +0000",
+      "minecraft:magma_cube": "2025-05-01 20:23:07 +0000",
       "minecraft:spider": "2025-04-23 04:15:13 +0000",
       "minecraft:piglin_brute": "2025-05-01 19:01:14 +0000",
       "minecraft:creeper": "2025-04-23 22:23:05 +0000",
@@ -978,6 +979,7 @@
       "minecraft:wither_skeleton": "2025-04-23 21:21:21 +0000",
       "minecraft:husk": "2025-04-23 04:45:53 +0000",
       "minecraft:cave_spider": "2025-04-23 22:29:10 +0000",
+      "minecraft:piglin": "2025-05-01 20:31:31 +0000",
       "minecraft:stray": "2025-04-23 21:10:46 +0000",
       "minecraft:silverfish": "2025-04-24 00:58:39 +0000",
       "minecraft:enderman": "2025-04-26 03:01:39 +0000",
@@ -1153,6 +1155,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-01 20:48:15 +0000",
       "cooked_beef": "2025-04-23 22:23:33 +0000",
       "chorus_fruit": "2025-04-25 04:12:34 +0000",
       "bread": "2025-04-23 03:37:11 +0000",
@@ -8210,6 +8213,7 @@
       "incendium:ash_barrens": "2025-04-28 22:48:30 +0000",
       "incendium:infernal_dunes": "2025-05-01 20:17:54 +0000",
       "incendium:quartz_flats": "2025-05-01 20:16:38 +0000",
+      "incendium:inverted_forest": "2025-05-01 20:36:27 +0000",
       "incendium:volcanic_deltas": "2025-05-01 19:00:58 +0000",
       "incendium:toxic_heap": "2025-04-26 22:24:28 +0000"
     },
@@ -8489,7 +8493,8 @@
     "criteria": {
       "minecraft:nether_wastes": "2025-04-28 22:45:17 +0000",
       "minecraft:soul_sand_valley": "2025-04-28 22:27:46 +0000",
-      "minecraft:basalt_deltas": "2025-05-01 19:00:43 +0000"
+      "minecraft:basalt_deltas": "2025-05-01 19:00:43 +0000",
+      "minecraft:warped_forest": "2025-05-01 20:33:29 +0000"
     },
     "done": false
   },
@@ -9363,111 +9368,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 20:18:04 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
-    "criteria": {
-      "has_smooth_quartz": "2025-05-01 20:17:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/black_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/orange_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
     },
     "done": true
   },
@@ -9489,30 +9398,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
@@ -9522,12 +9407,6 @@
   "valhelsia_furniture:recipes/decorations/green_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-05-01 18:14:42 +0000"
     },
     "done": true
   },
@@ -9543,45 +9422,15 @@
     },
     "done": true
   },
-  "spartanweaponry:longsword": {
-    "criteria": {
-      "has_longsword": "2025-05-01 19:11:21 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_upholstered_cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
     },
     "done": true
   },
@@ -9597,12 +9446,6 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-01 17:42:50 +0000"
@@ -9612,18 +9455,6 @@
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-05-01 20:11:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
     },
     "done": true
   },
@@ -9639,21 +9470,9 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/lime_glazed_jar": {
-    "criteria": {
-      "has_lime_terracotta": "2025-05-01 19:53:41 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/purple_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
     },
     "done": true
   },
@@ -9663,21 +9482,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/ghast_buster": {
-    "criteria": {
-      "kill_ghast": "2025-05-01 20:18:37 +0000"
     },
     "done": true
   },
@@ -9687,45 +9494,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
-    "criteria": {
-      "has_smooth_quartz": "2025-05-01 20:17:22 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-05-01 20:17:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
     },
     "done": true
   },
@@ -9741,12 +9518,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
@@ -9756,12 +9527,6 @@
   "valhelsia_furniture:recipes/decorations/green_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
     },
     "done": true
   },
@@ -9777,21 +9542,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_blue_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-05-01 17:46:10 +0000"
     },
     "done": true
   },
@@ -9813,6 +9566,126 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-05-01 17:46:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-05-01 17:46:10 +0000"
@@ -9831,87 +9704,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
-    "criteria": {
-      "has_smooth_quartz": "2025-05-01 20:17:22 +0000"
-    },
-    "done": true
-  },
-  "incendium:volcanic_deltas/root": {
-    "criteria": {
-      "incendium:volcanic_deltas": "2025-05-01 19:00:58 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cherry_chair": {
-    "criteria": {
-      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_stool": {
-    "criteria": {
-      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-05-01 17:46:10 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/floor_is_tears": {
-    "criteria": {
-      "requirement": "2025-05-01 20:16:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_chair": {
-    "criteria": {
-      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sniper_duel": {
-    "criteria": {
-      "killed_skeleton": "2025-05-01 19:51:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/cherry_banister": {
-    "criteria": {
-      "has_item": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/root": {
-    "criteria": {
-      "requirement": "2025-05-01 20:16:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_glazed_terracotta": {
-    "criteria": {
-      "has_lime_terracotta": "2025-05-01 19:53:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_cherry_chair": {
-    "criteria": {
-      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_cherry_chair": {
-    "criteria": {
-      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
     },
     "done": true
   },
@@ -9921,45 +9716,87 @@
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/big_lime_glazed_jar": {
-    "criteria": {
-      "has_lime_terracotta": "2025-05-01 19:53:41 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2025-05-01 20:17:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-01 17:46:10 +0000"
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_cherry_stool": {
     "criteria": {
-      "killed_ghast": "2025-05-01 20:00:10 +0000"
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-01 17:51:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/cherry_banister": {
+    "criteria": {
+      "has_item": "2025-05-01 17:51:44 +0000"
     },
     "done": true
   },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_cherry_stool": {
     "criteria": {
       "has_cherry_slab": "2025-05-01 17:51:44 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_cherry_chair": {
-    "criteria": {
-      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_cherry_chair": {
-    "criteria": {
-      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
     },
     "done": true
   },
@@ -9975,21 +9812,639 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-05-01 19:00:57 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_cherry_stool": {
     "criteria": {
       "has_cherry_slab": "2025-05-01 17:51:44 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_cherry_chair": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_cherry_planks": "2025-05-01 17:42:50 +0000"
+      "has_diamond_backpack": "2025-05-01 18:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-01 19:00:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-05-01 19:00:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-05-01 19:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-05-01 19:51:08 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/lime_glazed_jar": {
+    "criteria": {
+      "has_lime_terracotta": "2025-05-01 19:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-05-01 19:53:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_lime_glazed_jar": {
+    "criteria": {
+      "has_lime_terracotta": "2025-05-01 19:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-05-01 20:00:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-05-01 20:11:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-05-01 20:16:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-05-01 20:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-01 20:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-01 20:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-01 20:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-01 20:17:22 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-01 20:17:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
+    },
+    "done": false
+  },
+  "incendium:quartz_flats/ghast_buster": {
+    "criteria": {
+      "kill_ghast": "2025-05-01 20:18:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_dark_oak_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-01 21:05:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_throwing_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/crimson_post": {
+    "criteria": {
+      "has_item": "2025-05-01 21:01:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_battle_hammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_mangrove_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_javelin_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_spear_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-01 21:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_crimson_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_acacia_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_pike_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_flanged_mace_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_bolt": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2025-05-01 20:40:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_rapier_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_dagger_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-01 21:06:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_boomerang_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-01 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_longsword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_heavy_crossbow_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-05-01 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-05-01 20:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-01 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/warped_post": {
+    "criteria": {
+      "has_item": "2025-05-01 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_parrying_dagger_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_tomahawk_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_battleaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_warped_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-01 20:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_birch_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_jungle_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_greatsword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_lance_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-01 20:37:16 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_basic_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_quarterstaff_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_oak_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_tower_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_glaive_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_cherry_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "stellarity:nether/a_piece_of_otherworld": {
+    "criteria": {
+      "criteria": "2025-05-01 20:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_katana_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-01 21:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_halberd_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_longbow_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_warhammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_saber_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
     },
     "done": true
   },
