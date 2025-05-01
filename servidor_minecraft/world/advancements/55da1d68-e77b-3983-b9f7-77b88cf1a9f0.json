@@ -8762,93 +8762,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_black_leggings": {
-    "criteria": {
-      "has_item": "2025-04-30 23:10:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-04-30 22:38:00 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_black_boots": {
-    "criteria": {
-      "has_item": "2025-04-30 23:10:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-04-30 22:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-04-30 22:38:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
-    "criteria": {
-      "has_dragonscales_black": "2025-04-30 23:10:24 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-04-30 23:13:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-04-30 22:40:31 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
-  "stellarity:cursed_tome/clockwork_crossbow": {
-    "criteria": {
-      "requirement2": "2025-04-30 23:15:40 +0000"
     },
     "done": true
   },
@@ -8858,35 +8774,41 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "kill_mimic": "2025-04-30 23:21:03 +0000"
+      "has_minecart": "2025-04-30 22:31:52 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-04-30 23:22:53 +0000"
+      "has_minecart": "2025-04-30 22:31:52 +0000"
     },
     "done": true
   },
-  "stellarity:cursed_tome/spellbooks/conveyance": {
+  "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
-      "requirement2": "2025-04-30 23:14:09 +0000"
+      "has_minecart": "2025-04-30 22:31:52 +0000"
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
+      "has_beetroot": "2025-04-30 22:38:00 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-30 22:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-30 22:40:31 +0000"
+    },
+    "done": true
   },
   "endrem:main/corrupted_eye": {
     "criteria": {
@@ -8894,9 +8816,51 @@
     },
     "done": true
   },
-  "stellarity:dragons_den/cursed_tome/items/unlock_clockwork_crossbow": {
+  "endrem:main/cursed_eye": {
     "criteria": {
-      "requirement2": "2025-04-30 23:15:40 +0000"
+      "cursed_eye": "2025-04-30 23:01:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-04-30 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-04-30 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-04-30 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-30 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-04-30 23:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-30 23:13:56 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/conveyance": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:09 +0000"
     },
     "done": true
   },
@@ -8912,13 +8876,19 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
   "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:14:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
     "criteria": {
       "requirement2": "2025-04-30 23:14:09 +0000"
     },
@@ -8930,57 +8900,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-30 22:31:52 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_black_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-30 23:10:24 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-30 22:31:52 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-30 23:30:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-30 22:31:52 +0000"
-    },
-    "done": true
-  },
   "stellarity:cursed_tome/sharanga": {
     "criteria": {
       "requirement2": "2025-04-30 23:14:53 +0000"
     },
     "done": true
   },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+  "stellarity:cursed_tome/clockwork_crossbow": {
     "criteria": {
-      "requirement2": "2025-04-30 23:14:09 +0000"
+      "requirement2": "2025-04-30 23:15:40 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/unlock_clockwork_crossbow": {
+    "criteria": {
+      "requirement2": "2025-04-30 23:15:40 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-30 23:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-30 23:22:53 +0000"
     },
     "done": true
   },
@@ -8990,21 +8936,21 @@
     },
     "done": true
   },
-  "endrem:main/cursed_eye": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "cursed_eye": "2025-04-30 23:01:33 +0000"
+      "has_basalt": "2025-05-01 04:19:25 +0000"
     },
     "done": true
   },
-  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+  "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
-      "requirement2": "2025-04-30 23:14:09 +0000"
+      "has_basalt": "2025-05-01 04:19:25 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_helmet": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "has_item": "2025-04-30 23:10:24 +0000"
+      "has_basalt": "2025-05-01 04:19:25 +0000"
     },
     "done": true
   },
