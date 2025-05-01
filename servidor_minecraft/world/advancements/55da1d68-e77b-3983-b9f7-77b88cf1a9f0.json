@@ -106,6 +106,7 @@
       "minecraft:ocean": "2025-04-23 03:33:21 +0000",
       "minecraft:windswept_savanna": "2025-04-25 04:03:20 +0000",
       "minecraft:warm_ocean": "2025-04-24 20:47:49 +0000",
+      "minecraft:flower_forest": "2025-05-01 04:59:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 03:26:58 +0000",
       "minecraft:savanna": "2025-04-24 02:03:28 +0000",
       "minecraft:plains": "2025-04-23 04:09:27 +0000"
@@ -2957,6 +2958,7 @@
       "biomeswevegone:red_rock_valley": "2025-04-24 01:54:54 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-04-30 23:22:59 +0000",
       "biomeswevegone:lush_stacks": "2025-04-24 00:24:56 +0000",
+      "biomeswevegone:coconino_meadow": "2025-05-01 05:09:10 +0000",
       "biomeswevegone:sierra_badlands": "2025-04-24 02:29:49 +0000",
       "biomeswevegone:ironwood_gour": "2025-04-23 23:18:13 +0000",
       "biomeswevegone:orchard": "2025-04-23 22:17:59 +0000",
@@ -8936,9 +8938,147 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_jungle_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mossy_stone_stairs": {
+    "criteria": {
+      "has_mossy_stone": "2025-05-01 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mossy_stone_slab": {
+    "criteria": {
+      "has_mossy_stone": "2025-05-01 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_fabric_desk_lamp": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_warped_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_crimson_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-05-01 04:19:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_warped_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_crimson_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_curtain": {
+    "criteria": {
+      "has_item": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_wall_from_mossy_stone_stonecutting": {
+    "criteria": {
+      "has_mossy_stone": "2025-05-01 04:40:57 +0000"
     },
     "done": true
   },
@@ -8948,15 +9088,177 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_stairs_from_mossy_stone_stonecutting": {
+    "criteria": {
+      "has_mossy_stone": "2025-05-01 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_mangrove_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-05-01 04:19:25 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-05-01 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_cherry_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_crimson_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_warped_chair": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_slab_from_mossy_stone_stonecutting": {
+    "criteria": {
+      "has_mossy_stone": "2025-05-01 04:40:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-05-01 04:36:16 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-01 04:19:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 05:00:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/mossy_stone_wall": {
+    "criteria": {
+      "has_mossy_stone": "2025-05-01 04:40:57 +0000"
     },
     "done": true
   },
