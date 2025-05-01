@@ -9442,6 +9442,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-01 18:14:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-01 17:42:50 +0000"
