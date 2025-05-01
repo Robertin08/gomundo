@@ -477,3 +477,15 @@
 [01May2025 18:54:12.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
 [01May2025 18:54:41.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/46887, l='ServerLevel[world]', x=2985.70, y=83.00, z=-5459.50] died, message: 'Shepherd was slain by Zombie Villager'
 [01May2025 18:56:29.972] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: InvalidWaystone
+[01May2025 18:59:32.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4266ms or 85 ticks behind
+[01May2025 19:00:52.486] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57297, l='ServerLevel[world]', x=267.50, y=-20.00, z=-496.22] died: Toxic Slime was killed
+[01May2025 19:00:54.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57296, l='ServerLevel[world]', x=239.03, y=-20.00, z=-511.74] died: Toxic Slime was killed
+[01May2025 19:00:57.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Those Were the Days]
+[01May2025 19:00:58.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Hellfire Mantle]
+[01May2025 19:01:07.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved too quickly! 8.48769596137555,-0.8967940896360105,5.521257243167497
+[01May2025 19:01:07.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2963ms or 59 ticks behind
+[01May2025 19:02:03.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/57298, l='ServerLevel[world]', x=220.70, y=-20.00, z=-505.90] died: Toxic Slime was killed
+[01May2025 19:03:40.434] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/59931, l='ServerLevel[world]', x=259.97, y=-20.00, z=-480.26] died: Toxic Slime was killed
+[01May2025 19:06:01.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Pipeline Sentry'/60600, l='ServerLevel[world]', x=603.70, y=34.00, z=-617.39] died: Pipeline Sentry suffocated in a wall
+[01May2025 19:07:26.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teffqyy[/127.151.196.115:33511] logged in with entity id 62068 at (3082.675886441217, 63.0, -5525.304291732317)
+[01May2025 19:07:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy joined the game
