@@ -15184,3 +15184,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01May2025 05:55:03.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 05:55:03.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01May2025 05:55:12.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> va p
+[01May2025 05:57:15.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3089, y=64, z=-5503} BlockPos{x=3090, y=64, z=-5503}
+[01May2025 05:57:15.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3089, y=64, z=-5503} BlockPos{x=3090, y=64, z=-5503}
+[01May2025 05:57:15.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3089, y=64, z=-5503} BlockPos{x=3090, y=64, z=-5503}
+[01May2025 05:57:15.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3089, y=64, z=-5503} BlockPos{x=3090, y=64, z=-5503}
+[01May2025 05:57:15.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3089, y=64, z=-5503} BlockPos{x=3090, y=64, z=-5503}
+[01May2025 05:58:48.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> go zzz
+[01May2025 05:58:59.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzzzzzz
+[01May2025 05:58:59.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[01May2025 05:58:59.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[01May2025 05:59:10.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 05:59:11.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 05:59:11.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 05:59:11.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 05:59:11.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 05:59:14.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[01May2025 05:59:14.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[01May2025 05:59:15.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[01May2025 05:59:46.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> XD
+[01May2025 06:00:03.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 06:00:03.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 06:00:08.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> si p
+[01May2025 06:00:13.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> hay q hacer la granja de oro ni bien terminemos esto
+[01May2025 06:00:29.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> faltan las etiquetas
+[01May2025 06:01:01.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3085, y=69, z=-5512} BlockPos{x=3084, y=65, z=-5510}
+[01May2025 06:01:01.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3085, y=69, z=-5512} BlockPos{x=3084, y=65, z=-5510}
+[01May2025 06:01:02.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3085, y=69, z=-5512} BlockPos{x=3084, y=65, z=-5510}
+[01May2025 06:01:02.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3085, y=69, z=-5512} BlockPos{x=3084, y=65, z=-5510}
+[01May2025 06:01:02.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3085, y=69, z=-5512} BlockPos{x=3084, y=65, z=-5510}
+[01May2025 06:03:02.467] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[01May2025 06:04:15.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> habla mira ig
+[01May2025 06:04:16.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> go show
+[01May2025 06:04:17.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> XD
+[01May2025 06:04:23.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[01May2025 06:04:23.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[01May2025 06:05:03.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 06:05:03.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
