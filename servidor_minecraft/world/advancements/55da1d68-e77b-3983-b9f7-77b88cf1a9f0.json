@@ -9004,6 +9004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-01 05:23:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_mangrove_stool": {
     "criteria": {
       "has_cyan_wool": "2025-05-01 04:40:25 +0000"
@@ -9019,6 +9025,12 @@
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-01 05:20:38 +0000"
     },
     "done": true
   },
@@ -9088,6 +9100,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-05-01 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-01 05:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_stairs_from_mossy_stone_stonecutting": {
     "criteria": {
       "has_mossy_stone": "2025-05-01 04:40:57 +0000"
@@ -9097,6 +9121,12 @@
   "valhelsia_furniture:recipes/decorations/spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-01 05:20:38 +0000"
     },
     "done": true
   },
@@ -9115,6 +9145,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-05-01 04:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-01 05:20:38 +0000"
     },
     "done": true
   },
@@ -9157,6 +9193,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2025-05-01 04:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-01 05:20:38 +0000"
     },
     "done": true
   },
