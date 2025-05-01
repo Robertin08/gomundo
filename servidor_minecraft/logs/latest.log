@@ -373,3 +373,23 @@
 [01May2025 17:37:56.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
 [01May2025 17:44:36.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> pera p
 [01May2025 17:44:47.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> si
+[01May2025 17:48:23.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Timed out
+[01May2025 17:48:23.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[01May2025 17:48:55.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.240.50.151:55823] logged in with entity id 31001 at (3086.328833060584, 63.0, -5530.654060445819)
+[01May2025 17:48:55.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[01May2025 17:49:42.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> zzzzzzzzz
+[01May2025 17:49:42.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[01May2025 17:49:42.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:49:42.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[01May2025 17:49:42.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:49:43.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:49:43.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:49:43.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:49:44.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:49:44.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:49:45.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> zzz}z
+[01May2025 17:49:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:49:45.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:49:45.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:49:47.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 17:54:54.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3028, y=61, z=-5511} BlockPos{x=3028, y=62, z=-5511}
