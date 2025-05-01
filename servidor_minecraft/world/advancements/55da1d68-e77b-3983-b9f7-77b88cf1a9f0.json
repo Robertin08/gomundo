@@ -9184,6 +9184,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-01 05:47:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_cherry_chair": {
     "criteria": {
       "has_cyan_wool": "2025-05-01 04:40:25 +0000"
@@ -9226,6 +9232,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/rose_petal_block": {
+    "criteria": {
+      "has_rose": "2025-05-01 05:46:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_slab_from_mossy_stone_stonecutting": {
     "criteria": {
       "has_mossy_stone": "2025-05-01 04:40:57 +0000"
@@ -9253,6 +9265,12 @@
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2025-05-01 04:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-05-01 05:46:57 +0000"
     },
     "done": true
   },

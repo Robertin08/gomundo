@@ -8584,12 +8584,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-05-01 05:40:03 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-01 04:34:07 +0000"
