@@ -351,3 +351,8 @@
 [01May2025 17:20:18.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
 [01May2025 17:20:18.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
 [01May2025 17:22:51.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [A Rogue's Best Friend]
+[01May2025 17:35:15.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF lost connection: Disconnected
+[01May2025 17:35:15.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF left the game
+[01May2025 17:35:15.100] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01May2025 17:35:28.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Itz_Jusebg_FpF[/127.26.125.93:33665] logged in with entity id 24736 at (811.5, 67.35489329934836, -4822.5)
+[01May2025 17:35:28.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
