@@ -451,3 +451,5 @@
 [01May2025 18:26:40.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
 [01May2025 18:26:40.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
 [01May2025 18:26:40.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[01May2025 18:35:53.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3041, y=61, z=-5479} BlockPos{x=3041, y=59, z=-5479}
+[01May2025 18:35:54.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3041, y=60, z=-5477} BlockPos{x=3041, y=61, z=-5477}
