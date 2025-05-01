@@ -466,3 +466,14 @@
 [01May2025 18:38:42.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
 [01May2025 18:38:42.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
 [01May2025 18:38:42.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> z
+[01May2025 18:52:29.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46822, l='ServerLevel[world]', x=3003.74, y=85.25, z=-5451.52] died, message: 'Villager was slain by Zombie'
+[01May2025 18:52:41.901] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46834, l='ServerLevel[world]', x=3001.30, y=75.00, z=-5446.30] died, message: 'Villager was slain by Zombie Villager'
+[01May2025 18:53:05.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/46835, l='ServerLevel[world]', x=3034.51, y=70.77, z=-5442.27] died, message: 'Shepherd was slain by Zombie'
+[01May2025 18:54:06.997] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forager'/46801, l='ServerLevel[world]', x=3082.44, y=63.00, z=-5520.50] died, message: 'Forager was shot by Itz_Jusebg_FpF'
+[01May2025 18:54:08.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 18:54:08.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 18:54:08.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 18:54:09.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 18:54:12.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> z
+[01May2025 18:54:41.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/46887, l='ServerLevel[world]', x=2985.70, y=83.00, z=-5459.50] died, message: 'Shepherd was slain by Zombie Villager'
+[01May2025 18:56:29.972] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: InvalidWaystone
