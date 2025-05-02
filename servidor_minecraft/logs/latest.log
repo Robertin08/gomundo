@@ -426,3 +426,10 @@
 [02May2025 21:16:21.298] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/15258, l='ServerLevel[world]', x=2234.28, y=62.00, z=-603.15] died: Village Guard was slain by buenxs14
 [02May2025 21:16:53.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Nightmare Fuel]
 [02May2025 21:17:18.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/14594, l='ServerLevel[world]', x=2215.11, y=56.00, z=-584.11] died: Village Guard was shot by Itz_Jusebg_FpF
+[02May2025 21:20:46.148] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/15227, l='ServerLevel[world]', x=2244.70, y=58.00, z=-589.36] died: Village Brewer was slain by Itz_Jusebg_FpF
+[02May2025 21:20:50.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/15226, l='ServerLevel[world]', x=2243.70, y=59.00, z=-586.38] died: Piglin Civilian was slain by Itz_Jusebg_FpF
+[02May2025 21:21:15.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=68, z=-536} BlockPos{x=2242, y=70, z=-536}
+[02May2025 21:21:15.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=68, z=-536} BlockPos{x=2242, y=70, z=-536}
+[02May2025 21:21:15.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=68, z=-536} BlockPos{x=2242, y=70, z=-536}
+[02May2025 21:21:15.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=68, z=-536} BlockPos{x=2242, y=70, z=-536}
+[02May2025 21:21:15.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=68, z=-536} BlockPos{x=2242, y=70, z=-536}

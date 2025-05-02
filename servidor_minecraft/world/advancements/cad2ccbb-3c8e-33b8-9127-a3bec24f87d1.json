@@ -7587,6 +7587,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-02 21:16:14 +0000",
       "minecraft:nether_wastes": "2025-04-27 19:31:08 +0000",
       "minecraft:soul_sand_valley": "2025-04-28 01:37:05 +0000",
       "minecraft:basalt_deltas": "2025-04-27 19:19:49 +0000"
@@ -9276,6 +9277,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-02 21:23:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-02 21:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-02 21:13:25 +0000"
@@ -9285,6 +9298,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-05-02 21:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-02 21:23:14 +0000"
     },
     "done": true
   },
