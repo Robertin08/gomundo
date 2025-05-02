@@ -8492,12 +8492,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-02 21:15:28 +0000",
       "minecraft:nether_wastes": "2025-04-28 22:45:17 +0000",
       "minecraft:soul_sand_valley": "2025-04-28 22:27:46 +0000",
       "minecraft:basalt_deltas": "2025-05-01 19:00:43 +0000",
       "minecraft:warped_forest": "2025-05-01 20:33:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
@@ -10463,73 +10464,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 21:05:57 +0000"
+      "log_spam_fixer": "2025-05-02 21:15:57 +0000"
     },
     "done": false
   },
@@ -10563,6 +10564,24 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/rescue_mission": {
+    "criteria": {
+      "requirement": "2025-05-02 21:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-02 21:10:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/sanctum/root": {
+    "criteria": {
+      "requirement": "2025-05-02 21:07:45 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-05-02 21:05:40 +0000"
@@ -10587,9 +10606,21 @@
     },
     "done": true
   },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:lumberjack": "2025-05-02 21:15:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-05-02 21:05:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-05-02 21:14:45 +0000"
     },
     "done": true
   },

@@ -403,3 +403,26 @@
 [02May2025 21:09:13.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/8938, l='ServerLevel[world]', x=2014.77, y=74.42, z=-376.51] died: Sanctum Protector was shot by Itz_Jusebg_FpF
 [02May2025 21:09:15.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/8959, l='ServerLevel[world]', x=2021.50, y=74.00, z=-383.30] died: Sanctum Cultist was shot by Itz_Jusebg_FpF
 [02May2025 21:09:40.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/8912, l='ServerLevel[world]', x=2035.65, y=36.00, z=-389.34] died: Sanctum Apostle burned to death
+[02May2025 21:10:04.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/8900, l='ServerLevel[world]', x=2088.30, y=74.00, z=-382.07] died: Sanctum Cultist was slain by Itz_Jusebg_FpF
+[02May2025 21:10:16.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/8903, l='ServerLevel[world]', x=2096.07, y=66.00, z=-401.50] died: Sanctum Cultist was shot by Itz_Jusebg_FpF
+[02May2025 21:10:37.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Voluntary Exile]
+[02May2025 21:10:37.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Apostle'/8908, l='ServerLevel[world]', x=2087.30, y=60.00, z=-409.50] died: Sanctum Apostle was shot by Itz_Jusebg_FpF
+[02May2025 21:10:38.063] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Sanctum Ritualist'/8902, l='ServerLevel[world]', x=2094.64, y=60.00, z=-406.64] died: Sanctum Ritualist was shot by Itz_Jusebg_FpF
+[02May2025 21:11:07.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/8907, l='ServerLevel[world]', x=2096.70, y=56.50, z=-406.93] died: Sanctum Cultist was slain by Itz_Jusebg_FpF
+[02May2025 21:11:20.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/8893, l='ServerLevel[world]', x=2094.08, y=55.00, z=-405.96] died: Sanctum Cultist was shot by Itz_Jusebg_FpF
+[02May2025 21:11:55.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/8899, l='ServerLevel[world]', x=2093.30, y=49.00, z=-406.70] died: Sanctum Cultist discovered the floor was lava
+[02May2025 21:12:02.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Rescue Mission]
+[02May2025 21:12:20.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Rescue Mission]
+[02May2025 21:14:45.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Light-Sensitive]
+[02May2025 21:14:45.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/15863, l='ServerLevel[world]', x=2147.88, y=34.49, z=-565.02] died: Desert Blaze was shot by Itz_Jusebg_FpF
+[02May2025 21:15:16.563] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/16328, l='ServerLevel[world]', x=2221.13, y=50.11, z=-550.70] died: Desert Blaze was shot by Itz_Jusebg_FpF
+[02May2025 21:15:17.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has reached the goal [Piglin Pillage]
+[02May2025 21:15:17.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has reached the goal [Piglin Pillage]
+[02May2025 21:15:28.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has completed the challenge [Hot Tourist Destinations]
+[02May2025 21:15:49.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/16612, l='ServerLevel[world]', x=2221.07, y=56.71, z=-579.70] died: Desert Blaze was slain by Itz_Jusebg_FpF
+[02May2025 21:16:03.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Disconnected
+[02May2025 21:16:03.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
+[02May2025 21:16:17.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/14596, l='ServerLevel[world]', x=2232.91, y=62.00, z=-602.00] died: Piglin Civilian tried to swim in lava to escape buenxs14
+[02May2025 21:16:21.298] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/15258, l='ServerLevel[world]', x=2234.28, y=62.00, z=-603.15] died: Village Guard was slain by buenxs14
+[02May2025 21:16:53.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Nightmare Fuel]
+[02May2025 21:17:18.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/14594, l='ServerLevel[world]', x=2215.11, y=56.00, z=-584.11] died: Village Guard was shot by Itz_Jusebg_FpF
