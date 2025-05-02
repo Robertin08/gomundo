@@ -433,3 +433,8 @@
 [02May2025 21:21:15.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=68, z=-536} BlockPos{x=2242, y=70, z=-536}
 [02May2025 21:21:15.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=68, z=-536} BlockPos{x=2242, y=70, z=-536}
 [02May2025 21:21:15.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2245, y=68, z=-536} BlockPos{x=2242, y=70, z=-536}
+[02May2025 21:39:07.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
+[02May2025 21:39:07.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
+[02May2025 21:39:07.342] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02May2025 21:39:34.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.26.163.190:50275] logged in with entity id 21644 at (2649.6295486728804, 72.0, -436.7144335193111)
+[02May2025 21:39:34.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
