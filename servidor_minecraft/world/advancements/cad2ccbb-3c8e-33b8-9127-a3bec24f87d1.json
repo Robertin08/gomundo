@@ -2253,6 +2253,7 @@
       "minecraft:pillager": "2025-04-23 03:51:00 +0000",
       "minecraft:blaze": "2025-04-28 01:34:48 +0000",
       "minecraft:skeleton": "2025-04-23 20:49:40 +0000",
+      "minecraft:ravager": "2025-05-02 20:50:22 +0000",
       "minecraft:ghast": "2025-04-28 22:56:36 +0000",
       "minecraft:hoglin": "2025-04-28 23:02:18 +0000",
       "minecraft:vindicator": "2025-04-23 03:36:08 +0000",
@@ -3993,6 +3994,7 @@
       "biomeswevegone:basalt_barrera": "2025-04-23 23:16:26 +0000",
       "biomeswevegone:aspen_boreal": "2025-04-23 22:20:05 +0000",
       "biomeswevegone:dacite_ridges": "2025-04-23 22:59:20 +0000",
+      "biomeswevegone:skyrise_vale": "2025-05-02 20:58:03 +0000",
       "biomeswevegone:dead_sea": "2025-04-24 20:48:30 +0000",
       "biomeswevegone:allium_shrubland": "2025-04-23 04:09:25 +0000",
       "biomeswevegone:tropical_rainforest": "2025-04-24 00:16:51 +0000",
@@ -9235,6 +9237,48 @@
   "incendium:quartz_flats/sanctum/root": {
     "criteria": {
       "requirement": "2025-05-02 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-02 21:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-02 20:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-02 21:00:36 +0000"
     },
     "done": true
   },

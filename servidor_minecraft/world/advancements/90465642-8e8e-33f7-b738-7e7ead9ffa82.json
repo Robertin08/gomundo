@@ -4347,77 +4347,113 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "valhelsia_furniture:recipes/decorations/green_upholstered_cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "valhelsia_furniture:recipes/decorations/black_upholstered_cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_wood_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "valhelsia_furniture:recipes/decorations/cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "valhelsia_furniture:recipes/decorations/red_upholstered_cherry_stool": {
     "criteria": {
-      "log_spam_fixer": "2025-05-02 03:27:33 +0000"
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/cherry_banister": {
+    "criteria": {
+      "has_item": "2025-05-02 21:00:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_cherry_stool": {
+    "criteria": {
+      "has_cherry_slab": "2025-05-02 21:00:56 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
