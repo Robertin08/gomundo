@@ -9920,123 +9920,39 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-01 21:34:01 +0000"
-    },
-    "done": false
-  },
   "incendium:quartz_flats/ghast_buster": {
     "criteria": {
       "kill_ghast": "2025-05-01 20:18:37 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/yellow_dark_oak_table": {
+  "stellarity:nether/a_piece_of_otherworld": {
     "criteria": {
-      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+      "criteria": "2025-05-01 20:33:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+  "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+      "has_logs": "2025-05-01 20:37:16 +0000"
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "valhelsia_structures:recipes/building_blocks/warped_post": {
     "criteria": {
-      "potion": "2025-05-01 21:05:12 +0000"
+      "has_item": "2025-05-01 20:37:16 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/combat/netherite_throwing_knife_smithing": {
+  "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+      "has_log": "2025-05-01 20:37:16 +0000"
     },
     "done": true
   },
-  "valhelsia_structures:recipes/building_blocks/crimson_post": {
+  "incendium:ash_barrens/enter_castle": {
     "criteria": {
-      "has_item": "2025-05-01 21:01:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/netherite_battle_hammer_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_mangrove_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+      "requirement": "2025-05-01 20:40:47 +0000"
     },
     "done": true
   },
@@ -10046,57 +9962,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/combat/netherite_spear_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-05-01 21:01:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_crimson_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_acacia_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_pike_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
     },
     "done": true
   },
@@ -10112,27 +9980,9 @@
     },
     "done": true
   },
-  "incendium:ash_barrens/enter_castle": {
-    "criteria": {
-      "requirement": "2025-05-01 20:40:47 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/netherite_rapier_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_dagger_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-05-01 21:06:09 +0000"
     },
     "done": true
   },
@@ -10142,75 +9992,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
-    "criteria": {
-      "has_log": "2025-05-01 21:23:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/netherite_longsword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_heavy_crossbow_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-05-01 20:37:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-05-01 20:44:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-05-01 21:23:29 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/warped_post": {
-    "criteria": {
-      "has_item": "2025-05-01 20:37:16 +0000"
     },
     "done": true
   },
@@ -10232,27 +10022,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/combat/netherite_battleaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_warped_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-01 20:44:41 +0000"
     },
     "done": true
   },
@@ -10262,39 +10034,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/yellow_birch_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_jungle_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/combat/netherite_greatsword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/netherite_lance_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-05-01 20:37:16 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/misc/netherite_basic_shield_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
     },
     "done": true
   },
@@ -10310,9 +10052,93 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/yellow_oak_table": {
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
-      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_katana_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_warhammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_throwing_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_battle_hammer_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_spear_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_rapier_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_longsword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_battleaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_lance_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_basic_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
     },
     "done": true
   },
@@ -10334,9 +10160,147 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
+  "spartanweaponry:recipes/combat/netherite_halberd_smithing": {
     "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_longbow_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/netherite_saber_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-05-01 20:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-01 20:44:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_dark_oak_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_mangrove_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_crimson_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_acacia_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_warped_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_birch_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_jungle_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_oak_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_cherry_table": {
+    "criteria": {
+      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/crimson_post": {
+    "criteria": {
+      "has_item": "2025-05-01 21:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-01 21:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-01 21:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
     },
     "done": true
   },
@@ -10352,51 +10316,15 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/yellow_cherry_table": {
-    "criteria": {
-      "has_yellow_carpet": "2025-05-01 20:46:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
     },
     "done": true
   },
-  "stellarity:nether/a_piece_of_otherworld": {
-    "criteria": {
-      "criteria": "2025-05-01 20:33:29 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/netherite_katana_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-05-01 21:01:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/netherite_halberd_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/netherite_longbow_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
     },
     "done": true
   },
@@ -10412,30 +10340,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/combat/netherite_warhammer_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/netherite_scythe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:27 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/netherite_saber_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-05-01 20:44:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {
       "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
@@ -10445,6 +10349,30 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-05-01 21:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-01 21:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-01 21:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-01 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-01 21:23:29 +0000"
     },
     "done": true
   },
