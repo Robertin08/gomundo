@@ -557,3 +557,13 @@
 [03May2025 22:12:45.052] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75206, l='ServerLevel[world]', x=-792.50, y=30.00, z=-4904.50]
 [03May2025 22:12:45.053] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75207, l='ServerLevel[world]', x=-792.50, y=30.00, z=-4903.50]
 [03May2025 22:19:04.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5330ms or 106 ticks behind
+[03May2025 22:25:23.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2414, y=36, z=-378} BlockPos{x=2414, y=36, z=-380}
+[03May2025 22:26:52.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2364, y=33, z=-414} BlockPos{x=2365, y=34, z=-415}
+[03May2025 22:26:52.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2364, y=33, z=-414} BlockPos{x=2365, y=34, z=-415}
+[03May2025 22:26:52.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2364, y=33, z=-414} BlockPos{x=2365, y=34, z=-415}
+[03May2025 22:26:52.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2364, y=33, z=-414} BlockPos{x=2365, y=34, z=-415}
+[03May2025 22:26:52.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2364, y=33, z=-414} BlockPos{x=2365, y=34, z=-415}
+[03May2025 22:26:52.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2364, y=33, z=-414} BlockPos{x=2365, y=34, z=-415}
+[03May2025 22:26:52.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2364, y=33, z=-414} BlockPos{x=2365, y=34, z=-415}
+[03May2025 22:26:52.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2364, y=33, z=-414} BlockPos{x=2365, y=34, z=-415}
+[03May2025 22:26:52.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2364, y=33, z=-414} BlockPos{x=2365, y=34, z=-415}
