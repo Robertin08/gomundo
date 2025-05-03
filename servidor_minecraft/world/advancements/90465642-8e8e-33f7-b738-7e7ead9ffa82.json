@@ -80,8 +80,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-04-28 22:12:46 +0000",
+      "minecraft:eroded_badlands": "2025-05-03 21:18:02 +0000",
       "minecraft:cherry_grove": "2025-04-30 21:05:32 +0000",
       "minecraft:birch_forest": "2025-04-30 21:08:05 +0000",
+      "minecraft:wooded_badlands": "2025-05-03 21:24:53 +0000",
+      "minecraft:badlands": "2025-05-03 21:24:17 +0000",
       "minecraft:beach": "2025-04-28 22:11:53 +0000",
       "minecraft:dark_forest": "2025-04-28 22:09:04 +0000",
       "minecraft:river": "2025-04-28 22:19:40 +0000",
@@ -424,6 +427,7 @@
     "criteria": {
       "biomeswevegone:araucaria_savanna": "2025-04-30 21:47:09 +0000",
       "biomeswevegone:mojave_desert": "2025-04-30 21:47:18 +0000",
+      "biomeswevegone:red_rock_valley": "2025-05-03 21:23:08 +0000",
       "biomeswevegone:ironwood_gour": "2025-04-28 22:13:55 +0000",
       "biomeswevegone:amaranth_grassland": "2025-05-03 20:53:34 +0000",
       "biomeswevegone:allium_shrubland": "2025-04-30 21:00:08 +0000",
@@ -2007,10 +2011,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-30 21:59:42 +0000",
+      "minecraft:hoglin": "2025-05-03 21:21:44 +0000",
       "minecraft:spider": "2025-05-03 20:20:14 +0000",
       "minecraft:creeper": "2025-04-28 23:01:41 +0000",
       "minecraft:slime": "2025-04-30 22:15:58 +0000",
       "minecraft:zombified_piglin": "2025-05-01 19:25:27 +0000",
+      "minecraft:wither_skeleton": "2025-05-03 21:21:40 +0000",
       "minecraft:husk": "2025-04-30 21:40:54 +0000",
       "minecraft:zombie": "2025-04-28 23:01:46 +0000"
     },
@@ -4472,73 +4478,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-03 21:08:49 +0000"
+      "log_spam_fixer": "2025-05-03 21:28:49 +0000"
     },
     "done": false
   },
@@ -4560,15 +4566,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-05-03 21:23:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 20:21:54 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 20:21:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:49 +0000"
     },
     "done": true
   },
@@ -4581,6 +4611,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 20:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-03 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:49 +0000"
     },
     "done": true
   },
@@ -4602,9 +4644,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-05-03 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 20:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-03 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:36 +0000"
     },
     "done": true
   },
@@ -4617,6 +4683,18 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-05-03 20:20:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-05-03 21:11:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:49 +0000"
     },
     "done": true
   },
@@ -4644,6 +4722,24 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-05-03 21:15:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-03 21:21:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 20:21:54 +0000"
@@ -4653,6 +4749,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 20:21:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:49 +0000"
     },
     "done": true
   },
@@ -4668,9 +4770,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-03 21:00:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:36 +0000"
     },
     "done": true
   },
@@ -4698,15 +4812,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-05-03 21:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 20:21:54 +0000"
     },
     "done": true
   },
+  "stellarity:adventure/anger_enderman": {
+    "criteria": {
+      "anger_enderman": "2025-05-03 21:14:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_bwg_dye_tag": {
     "criteria": {
       "has_dye_tag": "2025-05-03 20:54:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:49 +0000"
     },
     "done": true
   },
@@ -4719,6 +4851,18 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 20:21:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-05-03 21:23:36 +0000"
     },
     "done": true
   },

@@ -9837,5 +9837,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-03 21:24:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-05-03 21:20:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
