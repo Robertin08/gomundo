@@ -574,3 +574,35 @@
 [03May2025 22:38:03.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2381, y=30, z=-283} BlockPos{x=2381, y=29, z=-283}
 [03May2025 22:38:03.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2381, y=30, z=-283} BlockPos{x=2381, y=29, z=-283}
 [03May2025 22:38:03.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2381, y=30, z=-283} BlockPos{x=2381, y=29, z=-283}
+[03May2025 22:42:00.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2386, y=33, z=-294} BlockPos{x=2385, y=27, z=-295}
+[03May2025 22:45:03.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2437, y=28, z=-303} BlockPos{x=2435, y=28, z=-302}
+[03May2025 22:51:31.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/92205, l='ServerLevel[world]', x=3911.51, y=54.00, z=-489.51] died: Piglin Civilian tried to swim in lava
+[03May2025 22:51:31.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/92200, l='ServerLevel[world]', x=3919.78, y=54.00, z=-487.34] died: Piglin Civilian tried to swim in lava
+[03May2025 22:52:44.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3786, y=28, z=-334} BlockPos{x=3785, y=31, z=-336}
+[03May2025 22:52:44.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3786, y=28, z=-334} BlockPos{x=3785, y=31, z=-336}
+[03May2025 22:52:44.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3785, y=31, z=-336} BlockPos{x=3785, y=30, z=-334}
+[03May2025 22:54:01.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/96170, l='ServerLevel[world]', x=3807.12, y=33.00, z=-248.10] died: Piglin Civilian tried to swim in lava
+[03May2025 22:55:00.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3791, y=29, z=-322} BlockPos{x=3791, y=28, z=-322}
+[03May2025 22:55:00.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3791, y=29, z=-322} BlockPos{x=3791, y=28, z=-322}
+[03May2025 22:55:00.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3791, y=29, z=-322} BlockPos{x=3791, y=28, z=-322}
+[03May2025 22:55:00.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3791, y=29, z=-322} BlockPos{x=3791, y=28, z=-322}
+[03May2025 22:55:00.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3791, y=29, z=-322} BlockPos{x=3791, y=28, z=-322}
+[03May2025 22:55:00.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3791, y=29, z=-322} BlockPos{x=3791, y=28, z=-322}
+[03May2025 22:55:00.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3791, y=29, z=-322} BlockPos{x=3791, y=28, z=-322}
+[03May2025 22:55:00.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3791, y=29, z=-322} BlockPos{x=3791, y=28, z=-322}
+[03May2025 22:55:00.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3791, y=29, z=-322} BlockPos{x=3791, y=28, z=-322}
+[03May2025 22:56:31.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3773, y=28, z=-327} BlockPos{x=3773, y=27, z=-326}
+[03May2025 22:56:48.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3774, y=25, z=-328} BlockPos{x=3773, y=24, z=-328}
+[03May2025 22:56:48.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3774, y=25, z=-328} BlockPos{x=3773, y=24, z=-328}
+[03May2025 22:56:48.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3774, y=25, z=-328} BlockPos{x=3773, y=24, z=-328}
+[03May2025 22:57:17.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3775, y=20, z=-327} BlockPos{x=3774, y=19, z=-327}
+[03May2025 22:57:59.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=580, y=68, z=-4082} BlockPos{x=581, y=68, z=-4081}
+[03May2025 22:57:59.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=580, y=68, z=-4082} BlockPos{x=581, y=68, z=-4081}
+[03May2025 22:58:40.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=68, z=-4080} BlockPos{x=592, y=67, z=-4079}
+[03May2025 22:58:40.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=68, z=-4080} BlockPos{x=592, y=67, z=-4079}
+[03May2025 22:58:40.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=68, z=-4080} BlockPos{x=592, y=67, z=-4079}
+[03May2025 22:58:40.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=68, z=-4080} BlockPos{x=592, y=67, z=-4079}
+[03May2025 22:58:40.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=68, z=-4080} BlockPos{x=592, y=67, z=-4079}
+[03May2025 22:58:40.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=592, y=68, z=-4080} BlockPos{x=592, y=67, z=-4079}
+[03May2025 22:59:20.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=582, y=67, z=-4070} BlockPos{x=582, y=66, z=-4072}
+[03May2025 22:59:20.588] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=582, y=67, z=-4070} BlockPos{x=582, y=66, z=-4072}

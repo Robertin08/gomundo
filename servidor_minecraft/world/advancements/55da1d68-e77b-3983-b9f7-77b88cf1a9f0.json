@@ -10921,6 +10921,84 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-03 22:58:58 +0000"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_warped_table": {
     "criteria": {
       "has_magenta_carpet": "2025-05-03 22:15:59 +0000"
@@ -10981,9 +11059,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_crimson_table": {
     "criteria": {
       "has_orange_carpet": "2025-05-03 21:43:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
     },
     "done": true
   },
@@ -11023,6 +11113,30 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/warped_desk_drawer": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/big_orange_glazed_jar": {
     "criteria": {
       "has_orange_terracotta": "2025-05-03 22:05:50 +0000"
@@ -11050,6 +11164,24 @@
   "valhelsia_structures:recipes/decorations/brown_glazed_jar": {
     "criteria": {
       "has_brown_terracotta": "2025-05-03 22:05:49 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
     },
     "done": true
   },
@@ -11083,9 +11215,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/warped_banister": {
+    "criteria": {
+      "has_item": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_oak_table": {
     "criteria": {
       "has_magenta_carpet": "2025-05-03 22:15:59 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/brewing/aloe_vera_juice": {
+    "criteria": {
+      "has_aloe_vera": "2025-05-03 22:57:57 +0000"
     },
     "done": true
   },
@@ -11107,9 +11251,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_cherry_table": {
     "criteria": {
       "has_magenta_carpet": "2025-05-03 22:15:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
     },
     "done": true
   },
@@ -11131,9 +11287,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_acacia_table": {
     "criteria": {
       "has_magenta_carpet": "2025-05-03 22:15:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
     },
     "done": true
   },
@@ -11143,9 +11311,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-05-03 21:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-03 22:49:57 +0000"
     },
     "done": true
   },
