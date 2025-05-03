@@ -341,3 +341,9 @@
 [03May2025 05:25:31.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Itz_Jusebg_FpF> perame un tq
 [03May2025 05:25:33.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2615, y=-53, z=-7792} BlockPos{x=2616, y=-54, z=-7792}
 [03May2025 05:25:37.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2615, y=-53, z=-7791} BlockPos{x=2616, y=-54, z=-7791}
+[03May2025 05:28:48.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2615, y=-52, z=-7794} BlockPos{x=2614, y=-53, z=-7794}
+[03May2025 05:28:48.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2615, y=-52, z=-7794} BlockPos{x=2614, y=-53, z=-7794}
+[03May2025 05:34:05.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/8772, l='ServerLevel[world]', x=2503.31, y=63.10, z=-7754.66] died, message: 'Nitwit was slain by Crocodile'
+[03May2025 05:37:17.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2615, y=-51, z=-7787} BlockPos{x=2615, y=-52, z=-7786}
+[03May2025 05:37:18.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2616, y=-50, z=-7787} BlockPos{x=2616, y=-51, z=-7786}
+[03May2025 05:37:18.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2615, y=-50, z=-7787} BlockPos{x=2616, y=-51, z=-7786}
