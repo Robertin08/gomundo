@@ -9837,6 +9837,18 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/green_enchanted_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 22:04:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-05-03 21:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-03 21:24:46 +0000"
@@ -9846,6 +9858,18 @@
   "dungeons_arise:find_bandit_village": {
     "criteria": {
       "location0": "2025-05-03 21:20:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/green_enchanted_planks": {
+    "criteria": {
+      "has_log": "2025-05-03 22:04:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-05-03 21:28:54 +0000"
     },
     "done": true
   },
