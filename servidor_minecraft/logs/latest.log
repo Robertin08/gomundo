@@ -318,3 +318,10 @@
 [03May2025 20:00:06.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.26.163.190:49969] logged in with entity id 97 at (-223.51138156109934, 158.0, -77.30000001192093)
 [03May2025 20:00:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
 [03May2025 20:05:26.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3845ms or 76 ticks behind
+[03May2025 20:10:30.530] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Teffqyy[/127.169.197.159:46031] logged in with entity id 4002 at (856.3367134919895, 63.0, -4877.302191835906)
+[03May2025 20:10:30.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy joined the game
+[03May2025 20:11:31.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Itz_Jusebg_FpF a server operator
+[03May2025 20:13:46.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Creative Mode]
+[03May2025 20:14:14.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Set own game mode to Survival Mode]
+[03May2025 20:15:57.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Itz_Jusebg_FpF: Made Itz_Jusebg_FpF no longer a server operator]
+[03May2025 20:16:29.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Splintering II]
