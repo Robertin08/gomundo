@@ -347,3 +347,5 @@
 [03May2025 05:37:17.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2615, y=-51, z=-7787} BlockPos{x=2615, y=-52, z=-7786}
 [03May2025 05:37:18.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2616, y=-50, z=-7787} BlockPos{x=2616, y=-51, z=-7786}
 [03May2025 05:37:18.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2615, y=-50, z=-7787} BlockPos{x=2616, y=-51, z=-7786}
+[03May2025 05:39:20.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has reached the goal [Half a flight]
+[03May2025 05:47:10.599] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/8863, l='ServerLevel[world]', x=2502.92, y=63.10, z=-7754.66] died, message: 'Weaponsmith was slain by Crocodile'
