@@ -4553,6 +4553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-03 20:32:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 20:21:54 +0000"
