@@ -9903,12 +9903,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-05-04 02:24:08 +0000"
-    },
-    "done": false
-  },
   "valhelsia_furniture:recipes/decorations/black_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 00:45:40 +0000"
