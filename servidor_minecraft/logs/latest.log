@@ -372,3 +372,6 @@
 [04May2025 18:21:42.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: buenxs14 lost connection: Disconnected
 [04May2025 18:21:42.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 left the game
 [04May2025 18:21:42.430] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04May2025 18:23:58.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.26.163.190:60085] logged in with entity id 19780 at (3241.3577856558204, 234.0, 158.42663577774155)
+[04May2025 18:23:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[04May2025 18:27:17.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <buenxs14> afk
