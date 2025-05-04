@@ -1881,6 +1881,7 @@
       "cooked_porkchop": "2025-04-23 20:54:50 +0000",
       "cooked_mutton": "2025-04-28 20:34:58 +0000",
       "cooked_beef": "2025-04-23 21:15:41 +0000",
+      "chorus_fruit": "2025-05-04 19:01:07 +0000",
       "baked_potato": "2025-04-23 03:48:12 +0000",
       "porkchop": "2025-05-02 23:14:26 +0000",
       "apple": "2025-04-26 02:51:05 +0000",
@@ -10200,6 +10201,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-05-04 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "stellarity:husbandry/eat_chorus_fruit": {
+    "criteria": {
+      "eat_chorus_fruit": "2025-05-04 19:01:07 +0000"
     },
     "done": true
   },
