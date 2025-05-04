@@ -25545,3 +25545,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04May2025 03:54:10.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04May2025 03:54:10.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04May2025 03:56:58.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> dile q entonces ya no le mando nd...
+[04May2025 03:59:09.556] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 03:59:10.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 03:59:10.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 03:59:12.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has reached the goal [Postmortal]
+[04May2025 03:59:33.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 03:59:33.706] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04May2025 03:59:34.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 03:59:34.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04May2025 03:59:34.904] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 04:02:06.806] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 04:03:50.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> qpaso
+[04May2025 04:04:10.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 04:04:10.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 04:04:56.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> yap
+[04May2025 04:05:55.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> ya ahora m toca
+[04May2025 04:07:01.525] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 04:07:01.526] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04May2025 04:07:12.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> chau juan, m toca
