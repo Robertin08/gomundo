@@ -9903,85 +9903,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-04 03:40:19 +0000",
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-04 03:40:11 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
-    "criteria": {
-      "has_polished_diorite": "2025-05-04 03:13:30 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/black_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 00:45:40 +0000"
@@ -10018,12 +9939,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-05-04 03:13:29 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/red_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 00:45:40 +0000"
@@ -10057,12 +9972,6 @@
   "valhelsia_furniture:recipes/decorations/gray_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 00:45:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-04 03:25:28 +0000"
     },
     "done": true
   },
@@ -10105,18 +10014,6 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 00:45:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-05-04 03:13:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-05-04 03:25:28 +0000"
     },
     "done": true
   },
@@ -10192,33 +10089,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-04 03:25:28 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 00:45:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-05-04 03:13:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-04 03:25:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2025-05-04 03:13:30 +0000"
     },
     "done": true
   },
@@ -10234,12 +10107,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-05-04 03:25:28 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/blue_cherry_chair": {
     "criteria": {
       "has_cherry_planks": "2025-05-04 00:45:40 +0000"
@@ -10252,15 +10119,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 00:45:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-05-04 00:45:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 03:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 03:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-04 03:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-05-04 03:13:30 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_cherry_chair": {
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
-      "has_cherry_planks": "2025-05-04 00:45:40 +0000"
+      "has_polished_diorite": "2025-05-04 03:13:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-05-04 03:13:30 +0000"
     },
     "done": true
   },
@@ -10270,9 +10173,33 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_cherry_chair": {
+  "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
-      "has_cherry_planks": "2025-05-04 00:45:40 +0000"
+      "has_minecart": "2025-05-04 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-04 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 03:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-04 03:25:28 +0000"
     },
     "done": true
   },
