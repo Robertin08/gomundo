@@ -59,3 +59,4 @@
 [04May2025 01:17:27.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> m falta vidrio
 [04May2025 01:29:45.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Teffqyy lost connection: Timed out
 [04May2025 01:29:45.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy left the game
+[04May2025 01:59:09.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
