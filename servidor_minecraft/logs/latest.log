@@ -19,3 +19,10 @@
 [04May2025 00:30:22.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> sip
 [04May2025 00:31:27.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Those Were the Days]
 [04May2025 00:32:02.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Hellfire Mantle]
+[04May2025 00:34:55.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/152744, l='ServerLevel[world]', x=109.26, y=-20.00, z=-657.74] died: Toxic Slime was killed
+[04May2025 00:36:46.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/152754, l='ServerLevel[world]', x=197.74, y=-20.00, z=-826.26] died: Toxic Slime was killed
+[04May2025 00:38:52.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=109, z=-961} BlockPos{x=60, y=109, z=-960}
+[04May2025 00:38:52.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=110, z=-961} BlockPos{x=60, y=111, z=-963}
+[04May2025 00:39:15.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> dnd estas
+[04May2025 00:41:50.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> sip ya subi
+[04May2025 00:42:44.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> waiting

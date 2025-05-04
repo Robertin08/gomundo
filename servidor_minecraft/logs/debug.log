@@ -23510,3 +23510,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04May2025 00:32:02.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teffqyy has made the advancement [Hellfire Mantle]
 [04May2025 00:32:34.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [04May2025 00:32:34.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 00:34:05.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:34:05.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:34:55.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/152744, l='ServerLevel[world]', x=109.26, y=-20.00, z=-657.74] died: Toxic Slime was killed
+[04May2025 00:36:46.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/152754, l='ServerLevel[world]', x=197.74, y=-20.00, z=-826.26] died: Toxic Slime was killed
+[04May2025 00:37:33.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 00:37:58.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 00:37:58.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04May2025 00:38:52.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=109, z=-961} BlockPos{x=60, y=109, z=-960}
+[04May2025 00:38:52.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=60, y=110, z=-961} BlockPos{x=60, y=111, z=-963}
+[04May2025 00:39:04.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:39:04.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 00:39:15.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> dnd estas
+[04May2025 00:40:14.156] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 00:40:14.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 00:40:52.954] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 00:41:50.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> sip ya subi
+[04May2025 00:41:55.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 00:41:55.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[04May2025 00:41:57.501] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04May2025 00:42:44.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teffqyy> waiting
+[04May2025 00:44:04.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 00:44:04.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

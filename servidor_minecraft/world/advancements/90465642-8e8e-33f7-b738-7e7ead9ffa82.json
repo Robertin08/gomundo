@@ -119,6 +119,7 @@
       "potato": "2025-05-04 00:14:22 +0000",
       "pumpkin_pie": "2025-05-01 05:36:10 +0000",
       "bread": "2025-05-01 05:37:36 +0000",
+      "golden_apple": "2025-05-04 00:33:35 +0000",
       "glow_berries": "2025-05-03 21:51:58 +0000",
       "golden_carrot": "2025-04-28 22:12:00 +0000",
       "cooked_chicken": "2025-04-30 22:19:30 +0000",
@@ -1612,6 +1613,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:ash_barrens": "2025-04-28 22:48:45 +0000",
+      "incendium:volcanic_deltas": "2025-05-04 00:32:02 +0000",
       "incendium:toxic_heap": "2025-04-28 22:39:12 +0000"
     },
     "done": false
@@ -2017,6 +2019,7 @@
       "minecraft:pillager": "2025-05-03 21:52:18 +0000",
       "minecraft:skeleton": "2025-04-30 21:59:42 +0000",
       "minecraft:hoglin": "2025-05-03 21:21:44 +0000",
+      "minecraft:magma_cube": "2025-05-04 00:36:07 +0000",
       "minecraft:spider": "2025-05-03 20:20:14 +0000",
       "minecraft:creeper": "2025-04-28 23:01:41 +0000",
       "minecraft:slime": "2025-04-30 22:15:58 +0000",
@@ -2264,7 +2267,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-04-30 20:59:48 +0000"
+      "apple": "2025-04-30 20:59:48 +0000",
+      "golden_apple": "2025-05-04 00:32:49 +0000"
     },
     "done": false
   },
@@ -3500,7 +3504,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-05-01 19:25:01 +0000"
+      "minecraft:nether_wastes": "2025-05-01 19:25:01 +0000",
+      "minecraft:basalt_deltas": "2025-05-04 00:31:21 +0000"
     },
     "done": false
   },
@@ -5697,6 +5702,42 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-05-03 21:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-04 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-04 00:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-04 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-05-04 00:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-04 00:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-04 00:31:27 +0000"
     },
     "done": true
   },
