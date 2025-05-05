@@ -319,3 +319,5 @@
 [05May2025 00:03:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF joined the game
 [05May2025 00:03:40.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: buenxs14[/127.26.163.190:52147] logged in with entity id 405 at (3237.530808602002, 243.1875, 158.41240097475938)
 [05May2025 00:03:40.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 joined the game
+[05May2025 00:15:04.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3552ms or 71 ticks behind
+[05May2025 00:15:05.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Itz_Jusebg_FpF moved too quickly! 5.163376590385724,-1.5926045976350593,-8.424032314137548
