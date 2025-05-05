@@ -533,3 +533,11 @@
 [05May2025 03:07:46.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Withering Heights]
 [05May2025 03:07:46.839] [Worker-Main-108/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [05May2025 03:08:21.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Wither You Want It Or Not]
+[05May2025 03:15:07.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64728, l='ServerLevel[world]', x=330.70, y=70.05, z=-4982.49] died, message: 'Villager was slain by Zombie'
+[05May2025 03:15:08.385] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/64732, l='ServerLevel[world]', x=330.70, y=70.05, z=-4982.49] died, message: 'Butcher was slain by Husk'
+[05May2025 03:15:09.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64792, l='ServerLevel[world]', x=330.50, y=70.05, z=-4982.49] died, message: 'Villager was slain by Husk'
+[05May2025 03:15:12.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64733, l='ServerLevel[world]', x=330.70, y=70.05, z=-4982.49] died, message: 'Villager was slain by Husk'
+[05May2025 03:15:13.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64794, l='ServerLevel[world]', x=330.70, y=70.05, z=-4982.49] died, message: 'Villager was slain by Husk'
+[05May2025 03:15:16.374] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64729, l='ServerLevel[world]', x=330.30, y=70.05, z=-4982.49] died, message: 'Villager was slain by Husk'
+[05May2025 03:15:18.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64730, l='ServerLevel[world]', x=330.30, y=70.05, z=-4982.49] died, message: 'Villager was slain by Zombie Villager'
+[05May2025 03:15:27.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/64731, l='ServerLevel[world]', x=330.30, y=70.05, z=-4982.49] died, message: 'Villager was slain by Husk'
