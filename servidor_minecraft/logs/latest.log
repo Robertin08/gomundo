@@ -492,3 +492,35 @@
 [05May2025 02:38:27.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/37251, l='ServerLevel[world]', x=2890.80, y=89.50, z=-8276.30] died, message: 'Nitwit suffocated in a wall'
 [05May2025 02:41:09.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/38846, l='ServerLevel[world]', x=51.16, y=-20.00, z=-578.37] died: Toxic Slime was killed
 [05May2025 02:42:34.655] [Worker-Main-120/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[05May2025 02:43:02.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Stare Into Despair]
+[05May2025 02:43:20.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Into Fire]
+[05May2025 02:44:03.082] [Worker-Main-108/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05May2025 02:44:03.083] [Worker-Main-108/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05May2025 02:44:05.092] [Worker-Main-108/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05May2025 02:44:05.093] [Worker-Main-108/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05May2025 02:44:05.127] [Worker-Main-108/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05May2025 02:44:05.129] [Worker-Main-108/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05May2025 02:44:08.106] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05May2025 02:44:08.107] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05May2025 02:44:08.128] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05May2025 02:44:08.128] [Worker-Main-111/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05May2025 02:44:08.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6687ms or 133 ticks behind
+[05May2025 02:44:14.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/39516, l='ServerLevel[world]', x=-17.74, y=-20.00, z=-819.74] died: Toxic Slime was killed
+[05May2025 02:45:07.606] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2683, y=36, z=-8599} but found not block entity block Block{minecraft:air} at location
+[05May2025 02:45:07.607] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=2683, y=36, z=-8599}
+[05May2025 02:45:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Spooky Scary Skeleton]
+[05May2025 02:45:10.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/40113, l='ServerLevel[world]', x=-40.26, y=-20.00, z=-778.26] died: Toxic Slime was killed
+[05May2025 02:46:59.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/41188, l='ServerLevel[world]', x=28.50, y=-20.00, z=-814.26] died: Toxic Slime was killed
+[05May2025 02:47:06.730] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[05May2025 02:47:27.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/41596, l='ServerLevel[world]', x=56.52, y=-20.00, z=-799.44] died: Toxic Slime was killed
+[05May2025 02:50:29.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: buenxs14 has made the advancement [Going Clubbing]
+[05May2025 02:52:41.767] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/44686, l='ServerLevel[world]', x=12.48, y=-20.00, z=-832.26] died: Toxic Slime was killed
+[05May2025 02:54:19.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/46007, l='ServerLevel[world]', x=14.66, y=-20.00, z=-798.37] died: Toxic Slime was killed
+[05May2025 02:55:16.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/47073, l='ServerLevel[world]', x=-46.74, y=-20.00, z=-889.15] died: Toxic Slime was killed
+[05May2025 02:55:31.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/47334, l='ServerLevel[world]', x=25.92, y=-20.00, z=-771.40] died: Toxic Slime was killed
+[05May2025 02:55:38.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/47412, l='ServerLevel[world]', x=5.16, y=-20.00, z=-755.79] died: Toxic Slime was killed
+[05May2025 02:56:16.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/47771, l='ServerLevel[world]', x=35.20, y=-20.00, z=-738.91] died: Toxic Slime was killed
+[05May2025 02:59:58.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49639, l='ServerLevel[world]', x=13.57, y=-20.00, z=-751.19] died: Toxic Slime was killed
+[05May2025 03:00:00.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49665, l='ServerLevel[world]', x=30.74, y=-20.00, z=-745.26] died: Toxic Slime was killed
+[05May2025 03:01:27.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50868, l='ServerLevel[world]', x=15.26, y=-20.00, z=-802.74] died: Toxic Slime was killed
+[05May2025 03:02:26.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/51727, l='ServerLevel[world]', x=-11.26, y=-20.00, z=-855.54] died: Toxic Slime was killed
