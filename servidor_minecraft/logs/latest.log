@@ -524,3 +524,12 @@
 [05May2025 03:00:00.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/49665, l='ServerLevel[world]', x=30.74, y=-20.00, z=-745.26] died: Toxic Slime was killed
 [05May2025 03:01:27.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/50868, l='ServerLevel[world]', x=15.26, y=-20.00, z=-802.74] died: Toxic Slime was killed
 [05May2025 03:02:26.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/51727, l='ServerLevel[world]', x=-11.26, y=-20.00, z=-855.54] died: Toxic Slime was killed
+[05May2025 03:03:04.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/52284, l='ServerLevel[world]', x=59.53, y=-20.00, z=-789.69] died: Toxic Slime was killed
+[05May2025 03:03:55.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2080, y=11, z=-8667} but found not block entity block Block{minecraft:water}[level=0] at location
+[05May2025 03:03:55.961] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=2080, y=11, z=-8667}
+[05May2025 03:04:01.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53011, l='ServerLevel[world]', x=21.44, y=-20.00, z=-754.05] died: Toxic Slime was killed
+[05May2025 03:04:37.760] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/53752, l='ServerLevel[world]', x=-22.74, y=-20.00, z=-804.57] died: Toxic Slime was killed
+[05May2025 03:07:44.107] [Worker-Main-111/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[05May2025 03:07:46.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Withering Heights]
+[05May2025 03:07:46.839] [Worker-Main-108/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[05May2025 03:08:21.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Itz_Jusebg_FpF has made the advancement [Wither You Want It Or Not]
